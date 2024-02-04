@@ -20,15 +20,15 @@ SET @REQUEST_BODY = '<?xml version="1.0" encoding="utf-8"?>
 -- Criar objeto HTTP
 EXEC sp_OACreate 'MSXML2.ServerXMLHTTP', @OBJECT_TOKEN OUT;
 
--- Abrir a conex�o
+-- Abrir a conexão
 EXEC sp_OAMethod @OBJECT_TOKEN, 'open', NULL, 'POST', @URL_API, false; 
 EXEC sp_OAMethod @OBJECT_TOKEN, 'setRequestHeader', NULL, 'Content-Type', 'text/xml;charset=UTF-8'
 EXEC sp_OAMethod @OBJECT_TOKEN, 'setRequestHeader', NULL, 'SOAPAction', 'POST'
 
--- Enviar a requisi��o
+-- Enviar a requisição
 EXEC sp_OAMethod @OBJECT_TOKEN, 'send', NULL, @REQUEST_BODY;
 
--- Obter o c�digo de status HTTP
+-- Obter o código de status HTTP
 EXEC sp_OAGetProperty @OBJECT_TOKEN, 'status', @STATUS OUTPUT;
 
 -- Receber a resposta

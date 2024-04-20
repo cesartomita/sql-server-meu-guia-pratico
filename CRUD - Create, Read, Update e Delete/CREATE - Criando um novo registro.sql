@@ -1,4 +1,14 @@
--- Comando para inserir um dado em uma tabela
+
+-- Comando para criar uma tabela chamado PESSOA
+
+CREATE TABLE PESSOA
+(
+    ID INT,
+    NOME VARCHAR(120),
+    EMAIL VARCHAR(120)
+);
+
+-- Comando para inserir um dado na tabela PESSOA
 
 INSERT INTO PESSOA
 (
@@ -8,5 +18,5 @@ INSERT INTO PESSOA
 VALUES
 (
     'José Silva',
-    'josesilva@email.com'
+    'jose.silva@email.com'
 );

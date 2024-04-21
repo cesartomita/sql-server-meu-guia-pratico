@@ -9,3 +9,7 @@ Separei as stored procedures mais utilizadas no dia a dia.
 - > Fornece informações sobre usuários, sessões e processos atuais em uma instância: [sp_who ou sp_who2](./Database%20Engine/sp_who%20ou%20sp_who2.sql).
 
 - > Retorna informações dos bancos de dados: [sp_helpdb](./Database%20Engine/sp_helpdb.sql).
+
+## Security (Segurança)
+
+- > Mostra as principais informações dos usuários em nível de banco de dados atual: [sp_helpuser](./Security/sp_helpuser.sql).

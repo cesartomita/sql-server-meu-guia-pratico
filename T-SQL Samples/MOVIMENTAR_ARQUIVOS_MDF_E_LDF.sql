@@ -1,0 +1,45 @@
+/*** MOVIMENTAR OS ARQUIVOS DE MDF E LDF ***/
+
+/* RETORNA ENDEREÇO DOS ARQUIVOS DO DATABASE */
+
+SELECT
+	name,
+	physical_name
+FROM
+	sys.master_files
+WHERE
+	database_id =  DB_ID('StackOverflow2010');
+
+/* MUDA O DATABASE PARA OFFLINE */
+
+ALTER DATABASE StackOverflow2010 SET OFFLINE;
+
+/* SCRIPT PARA GERAR OS KILLS DOS PROCESSOS ABERTOS NO DATABASE */
+
+USE master;
+
+SELECT
+    CONCAT('KILL ',spid,';') AS SCRIPT_SQL
+FROM
+    sys.sysprocesses
+WHERE
+	 DB_NAME(dbid) = 'StackOverflow2010';
+
+/* ALTERAR PARA OS NOVOS ENDEREÇOS DO MDF AND LDF */
+
+USE master;
+GO
+
+-- MDF
+ALTER DATABASE StackOverflow2010
+MODIFY FILE (NAME = StackOverflow2010, FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\StackOverflow\StackOverflow2010.mdf');
+GO
+
+-- LDF
+ALTER DATABASE StackOverflow2010
+MODIFY FILE (NAME = StackOverflow2010_log, FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\StackOverflow\StackOverflow2010_log.ldf');
+GO
+
+/* MUDA O DATABASE PARA ONLINE */
+
+ALTER DATABASE StackOverflow2010 SET ONLINE;

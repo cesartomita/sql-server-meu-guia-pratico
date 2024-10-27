@@ -26,3 +26,5 @@ Destinado a ajudar desenvolvedores, administradores e entusiastas a aprimorar su
 - [Exemplo simples usando LEFT JOIN](<T-SQL Samples/019 - EXEMPLO_CONSULTA_USANDO_LEFT_JOIN.sql>)
 - [Exemplo simples usando CROSS JOIN](<T-SQL Samples/020 - EXEMPLO_CONSULTA_USANDO_CROSS_JOIN.sql>)
 - [Exemplo de como usar a função SUM](<T-SQL Samples/021 - USANDO_FUNÇÃO_SUM.sql>)
+- [Funções de agregação (MIN, MAX, AVG, COUNT e SUM)](<T-SQL Samples/022 - FUNÇÕES_DE_AGREGAÇÃO.sql>)
+- [Usando funções LAG e LEAD](<T-SQL Samples/023 - FUNÇÕES_LAG_E_LEAD.sql>)

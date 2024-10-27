@@ -1,1 +1,0 @@
-Exemplos de como fazer requisição SOAP no SQL Server.

@@ -1,8 +1,6 @@
 # SQL Server Samples
 
-Este repositório é para quem está começando no SQL Server, mas também para quem já tem mais experiência. Compartilho meus conhecimentos e aprendizados, com coleções de scripts em T-SQL e dicas práticas.
-
-Caso tenha alguma dúvida ou sugestão, fique à vontade para abrir uma issue ou deixar um comentário. Ficarei feliz em ajudar e adicionar novos exemplos!
+Esse repositório é para quem está começando a aprender SQL, especialmente SQL Server, mas também serve para quem já tem mais experiência na área. Aqui, compartilho um pouco do que aprendi, com alguns scripts para ajudar na sua trajetória. =)
 
 ### Databases utilizados:
 - [AdventureWorks2014](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)

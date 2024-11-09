@@ -36,11 +36,11 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Usando funções de agregação](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o.sql)
 ## 03 - Comandos avançados
 
-- [Criabndo tabela temporária na global](03%20-%20Comandos%20avan%C3%A7ados/Criabndo%20tabela%20tempor%C3%A1ria%20na%20global.sql)
-- [Criabndo tabela temporária na sessão](03%20-%20Comandos%20avan%C3%A7ados/Criabndo%20tabela%20tempor%C3%A1ria%20na%20sess%C3%A3o.sql)
-- [Criabndo uma variável de tabela](03%20-%20Comandos%20avan%C3%A7ados/Criabndo%20uma%20vari%C3%A1vel%20de%20tabela.sql)
+- [Criando tabela temporária na global](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20global.sql)
+- [Criando tabela temporária na sessão](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20sess%C3%A3o.sql)
 - [Criando tabela temporária usando VALUES - 01](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2001.sql)
 - [Criando tabela temporária usando VALUES - 02](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2002.sql)
+- [Criando uma variável de tabela](03%20-%20Comandos%20avan%C3%A7ados/Criando%20uma%20vari%C3%A1vel%20de%20tabela.sql)
 ## 04 - Requisições em API
 
 - [Exemplo de uma função de requisição em uma API REST](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)

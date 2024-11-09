@@ -1,30 +1,65 @@
-SQL Server Samples
+# SQL Server Samples
 
-Este repositório contém uma coleção de scripts e dicas relacionados ao Microsoft SQL Server.
+Este repositório é para quem está começando no SQL Server, mas também para quem já tem mais experiência. Compartilho meus conhecimentos e aprendizados, com coleções de scripts em T-SQL e dicas práticas.
 
-Destinado a ajudar desenvolvedores, administradores e entusiastas a aprimorar suas habilidades e conhecimentos nesta plataforma de banco de dados.
+Caso tenha alguma dúvida ou sugestão, fique à vontade para abrir uma issue ou deixar um comentário. Ficarei feliz em ajudar e adicionar novos exemplos!
 
-- [Comandos DCL](<T-SQL Samples/001 - DCL.sql>)
-- [Comandos DDL](<T-SQL Samples/002 - DDL.sql>)
-- [Comandos DML](<T-SQL Samples/003 - DML.sql>)
-- [Comandos TCL](<T-SQL Samples/004 - TCL.sql>)
-- [Como criar um database](<T-SQL Samples/005 - CRIANDO_UM_DATABASE.sql>)
-- [Como criar uma tabela](<T-SQL Samples/006 - CRIANDO_UMA_TABELA.sql>)
-- [Como inserir dados](<T-SQL Samples/007 - INSERINDO_DADOS.sql>)
-- [Como fazer um select simples](<T-SQL Samples/008 - SELECT_SIMPLES.sql>)
-- [Como fazer um DETACH e ATTACH de um database](<T-SQL Samples/009 - DETACH_E_ATTACH.sql>)
-- [Script de informações gerais dos databases](<T-SQL Samples/010 - INFORMACAO_GERAL_DATABASES.sql>)
-- [Como movimentar arquivos MDF e LDF](<T-SQL Samples/011 - MOVIMENTAR_ARQUIVOS_MDF_E_LDF.sql>)
-- [Como fazer requisição de uma API REST - Exemplo 01](<T-SQL Samples/012 - REQUISIÇÃO_REST_01.sql>)
-- [Como fazer requisição de uma API REST - Exemplo 02](<T-SQL Samples/013 - REQUISIÇÃO_REST_02.sql>)
-- [Como fazer requisição de uma API SOAP - Exemplo 01](<T-SQL Samples/014 - REQUISIÇÃO_SOAP_01.sql>)
-- [Como fazer requisição de uma API SOAP - Exemplo 02](<T-SQL Samples/015 - REQUISIÇÃO_SOAP_02.sql>)
-- [Listar as FOREIGN KEYS de um database](<T-SQL Samples/016 - LISTAR_FOREIGN_KEY_DATABASE>)
-- [Listar as FOREIGN KEYS de um database - Com schema](<T-SQL Samples/016.2 - LISTAR_FOREIGN_KEY_DATABASE_V2>)
-- [Listar os campos MS_Description do database](<T-SQL Samples/017 - LISTAR_CAMPOS_MS_DESCRIPTION_DE_DESCRIÇÃO_DO_DATABASE.sql>)
-- [Exemplo simples usando INNER JOIN](<T-SQL Samples/018 - EXEMPLO_CONSULTA_USANDO_INNER_JOIN.sql>)
-- [Exemplo simples usando LEFT JOIN](<T-SQL Samples/019 - EXEMPLO_CONSULTA_USANDO_LEFT_JOIN.sql>)
-- [Exemplo simples usando CROSS JOIN](<T-SQL Samples/020 - EXEMPLO_CONSULTA_USANDO_CROSS_JOIN.sql>)
-- [Exemplo de como usar a função SUM](<T-SQL Samples/021 - USANDO_FUNÇÃO_SUM.sql>)
-- [Funções de agregação (MIN, MAX, AVG, COUNT e SUM)](<T-SQL Samples/022 - FUNÇÕES_DE_AGREGAÇÃO.sql>)
-- [Usando funções LAG e LEAD](<T-SQL Samples/023 - FUNÇÕES_LAG_E_LEAD.sql>)
+### Databases utilizados:
+- [AdventureWorks2014](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+- [Northwind](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
+- [BikeStores](https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/)
+
+## 00 - Principais conceitos
+
+- [O que é DCL](00%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DCL.sql)
+- [O que é DDL](00%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DDL.sql)
+- [O que é DML](00%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DML.sql)
+- [O que é TCL](00%20-%20Principais%20conceitos/O%20que%20%C3%A9%20TCL.sql)
+## 01 - Comandos iniciais
+
+- [Como apagar um registro usando DELETE](01%20-%20Comandos%20iniciais/Como%20apagar%20um%20registro%20usando%20DELETE.sql)
+- [Como atualizar um campo usando UPDATE](01%20-%20Comandos%20iniciais/Como%20atualizar%20um%20campo%20usando%20UPDATE.sql)
+- [Como criar um banco de dados (DATABASE) com parâmetros](01%20-%20Comandos%20iniciais/Como%20criar%20um%20banco%20de%20dados%20(DATABASE)%20com%20par%C3%A2metros.sql)
+- [Como criar um banco de dados (DATABASE) simples](01%20-%20Comandos%20iniciais/Como%20criar%20um%20banco%20de%20dados%20(DATABASE)%20simples.sql)
+- [Como criar uma tabela (TABLE)](01%20-%20Comandos%20iniciais/Como%20criar%20uma%20tabela%20(TABLE).sql)
+- [Como fazer uma busca usando ORDER BY](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20ORDER%20BY.sql)
+- [Como fazer uma busca usando SELECT com DISTINCT](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT%20com%20DISTINCT.sql)
+- [Como fazer uma busca usando SELECT](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
+- [Como fazer uma busca usando WHERE](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
+- [Como inserir um novo registro usando INSERT INTO](01%20-%20Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
+- [Como usar uma junção do tipo CROSS JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20CROSS%20JOIN.sql)
+- [Como usar uma junção do tipo INNER JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20INNER%20JOIN.sql)
+- [Como usar uma junção do tipo LEFT JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20LEFT%20JOIN.sql)
+- [Como usar uma junção do tipo RIGHT JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20RIGHT%20JOIN.sql)
+## 02 - Comandos intermediários
+
+- [Usando a função SUM](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
+- [Usando as funções LAG e LEAD](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20as%20fun%C3%A7%C3%B5es%20LAG%20e%20LEAD.sql)
+- [Usando funções de agregação](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o.sql)
+## 03 - Comandos avançados
+
+- [Criabndo tabela temporária na global](03%20-%20Comandos%20avan%C3%A7ados/Criabndo%20tabela%20tempor%C3%A1ria%20na%20global.sql)
+- [Criabndo tabela temporária na sessão](03%20-%20Comandos%20avan%C3%A7ados/Criabndo%20tabela%20tempor%C3%A1ria%20na%20sess%C3%A3o.sql)
+- [Criabndo uma variável de tabela](03%20-%20Comandos%20avan%C3%A7ados/Criabndo%20uma%20vari%C3%A1vel%20de%20tabela.sql)
+- [Criando tabela temporária usando VALUES - 01](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2001.sql)
+- [Criando tabela temporária usando VALUES - 02](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2002.sql)
+## 04 - Requisições em API
+
+- [Exemplo de uma função de requisição em uma API REST](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
+- [Exemplo de uma requisição em uma API REST ](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
+- [Exemplo de uma requisição em uma API SOAP - 01](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
+- [Exemplo de uma requisição em uma API SOAP - 02](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
+## 05 - Usando PIVOT e UNPIVOT
+
+- [Transformar colunas em linhas usando UNPIVOT dinâmico](05%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT%20din%C3%A2mico.sql)
+- [Transformar colunas em linhas usando UNPIVOT](05%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT.sql)
+- [Transformar linhas em colunas usando PIVOT dinâmico](05%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT%20din%C3%A2mico.sql)
+- [Transformar linhas em colunas usando PIVOT](05%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT.sql)
+## 99 - DBA
+
+- [Como fazer um DETACH e ATTACH](99%20-%20DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
+- [Como movimentar os arquivos MDF e LDF](99%20-%20DBA/Como%20movimentar%20os%20arquivos%20MDF%20e%20LDF.sql)
+- [Informações gerais do banco de dados](99%20-%20DBA/Informa%C3%A7%C3%B5es%20gerais%20do%20banco%20de%20dados.sql)
+- [Listando as FOREIGN KEY de um DATABASE com SCHEMA](99%20-%20DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE%20com%20SCHEMA.sql)
+- [Listando as FOREIGN KEY de um DATABASE](99%20-%20DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
+- [Listando valores do campo MS_Description das propriedades estendidas](99%20-%20DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)

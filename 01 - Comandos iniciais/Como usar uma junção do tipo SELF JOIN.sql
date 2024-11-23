@@ -1,0 +1,36 @@
+USE DB_TESTE;
+GO
+
+-- Criando tabela
+CREATE TABLE EMPREGADO (
+    ID_EMPREGADO INT PRIMARY KEY, 
+    NOME VARCHAR(50) NOT NULL,
+    ID_SUPERVISOR INT NULL,
+    CONSTRAINT FK_SUPERVISOR FOREIGN KEY (ID_SUPERVISOR) REFERENCES EMPREGADO(ID_EMPREGADO)
+);
+GO
+
+-- Inserindo registros
+INSERT INTO EMPREGADO
+(
+    ID_EMPREGADO,
+    NOME,
+    ID_SUPERVISOR
+)
+VALUES
+    (1, 'João', NULL),
+    (2, 'Maria', 1),
+    (3, 'José', 1),
+    (4, 'Ana', 2),
+    (5, 'Carlos', NULL),
+    (6, 'Fernanda', 5);
+GO
+
+-- Resultado da hierarquia de supervisor e empregado
+SELECT
+    E1.NOME AS SUPERVISOR,
+    E2.NOME AS EMPREGADO
+FROM
+    EMPREGADO E1
+    INNER JOIN EMPREGADO E2 ON E2.ID_SUPERVISOR = E1.ID_EMPREGADO;
+GO

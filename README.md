@@ -31,6 +31,7 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Como usar uma junção do tipo INNER JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20INNER%20JOIN.sql)
 - [Como usar uma junção do tipo LEFT JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20LEFT%20JOIN.sql)
 - [Como usar uma junção do tipo RIGHT JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20RIGHT%20JOIN.sql)
+- [Como usar uma junção do tipo SELF JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20SELF%20JOIN.sql)
 ## 02 - Comandos intermediários
 
 - [Usando a função SUM](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
@@ -38,23 +39,42 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Usando funções de agregação](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o.sql)
 ## 03 - Comandos avançados
 
+- [Como fazer um INSERT com SELECT (INSERT INTO SELECT)](03%20-%20Comandos%20avan%C3%A7ados/Como%20fazer%20um%20INSERT%20com%20SELECT%20(INSERT%20INTO%20SELECT).sql)
+- [Como fazer um UPDATE com SELECT](03%20-%20Comandos%20avan%C3%A7ados/Como%20fazer%20um%20UPDATE%20com%20SELECT.sql)
 - [Criando tabela temporária na global](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20global.sql)
 - [Criando tabela temporária na sessão](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20sess%C3%A3o.sql)
 - [Criando tabela temporária usando VALUES - 01](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2001.sql)
 - [Criando tabela temporária usando VALUES - 02](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2002.sql)
 - [Criando uma variável de tabela](03%20-%20Comandos%20avan%C3%A7ados/Criando%20uma%20vari%C3%A1vel%20de%20tabela.sql)
-## 04 - Requisições em API
+## 04 - Funções de agregação
 
-- [Exemplo de uma função de requisição em uma API REST](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
-- [Exemplo de uma requisição em uma API REST ](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
-- [Exemplo de uma requisição em uma API SOAP - 01](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
-- [Exemplo de uma requisição em uma API SOAP - 02](04%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
-## 05 - Usando PIVOT e UNPIVOT
+- [Usando a função AVG](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20AVG.sql)
+- [Usando a função COUNT](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20COUNT.sql)
+- [Usando a função MAX](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MAX.sql)
+- [Usando a função MIN](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MIN.sql)
+- [Usando a função SUM](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
+## 05 - Agrupando dados
 
-- [Transformar colunas em linhas usando UNPIVOT dinâmico](05%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT%20din%C3%A2mico.sql)
-- [Transformar colunas em linhas usando UNPIVOT](05%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT.sql)
-- [Transformar linhas em colunas usando PIVOT dinâmico](05%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT%20din%C3%A2mico.sql)
-- [Transformar linhas em colunas usando PIVOT](05%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT.sql)
+- [Agrupando dados com GROUP BY e filtrando com HAVING](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20filtrando%20com%20HAVING.sql)
+- [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
+- [Agrupando dados com GROUP BY usando CUBE para agregação das colunas](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
+- [Agrupando dados com GROUP BY](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY.sql)
+## 06 - Requisições em API
+
+- [Exemplo de uma função de requisição em uma API REST](06%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
+- [Exemplo de uma requisição em uma API REST ](06%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
+- [Exemplo de uma requisição em uma API SOAP - 01](06%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
+- [Exemplo de uma requisição em uma API SOAP - 02](06%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
+## 07 - Usando PIVOT e UNPIVOT
+
+- [Transformar colunas em linhas usando UNPIVOT dinâmico](07%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT%20din%C3%A2mico.sql)
+- [Transformar colunas em linhas usando UNPIVOT](07%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT.sql)
+- [Transformar linhas em colunas usando PIVOT dinâmico](07%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT%20din%C3%A2mico.sql)
+- [Transformar linhas em colunas usando PIVOT](07%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT.sql)
+## 08 - Usando uma SUBQUERY
+
+- [Fazendo uma sub-consulta no SELECT](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
+- [Fazendo uma sub-consulta no WHERE](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20WHERE.sql)
 ## 99 - DBA
 
 - [Como fazer um DETACH e ATTACH](99%20-%20DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
@@ -63,3 +83,4 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Listando as FOREIGN KEY de um DATABASE com SCHEMA](99%20-%20DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE%20com%20SCHEMA.sql)
 - [Listando as FOREIGN KEY de um DATABASE](99%20-%20DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
 - [Listando valores do campo MS_Description das propriedades estendidas](99%20-%20DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
+- [Mostrar transações abertas](99%20-%20DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)

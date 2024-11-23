@@ -84,3 +84,4 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Listando as FOREIGN KEY de um DATABASE](99%20-%20DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
 - [Listando valores do campo MS_Description das propriedades estendidas](99%20-%20DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
 - [Mostrar transações abertas](99%20-%20DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
+- [Tabelas com maior uso de espaço em disco](99%20-%20DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)

@@ -1,16 +1,16 @@
 /*
-     s.session_id:              ID da sessão.
+    s.session_id:               ID da sessão.
     s.host_name:                Nome do host (computador) que iniciou a sessão.
     s.program_name:             Nome do programa ou aplicação que abriu a conexão.
     s.login_name:               Nome do usuário que autenticou na sessão.
-	t.transaction_id:			ID da transação.
-	t.transaction_descriptor:	Descrição da transação.
-	t.enlist_count:				Contagem de enlistamentos (quantas vezes a transação foi enlistada).
-	t.is_user_transaction:		Indica se a transação é uma transação de usuário (1) ou do sistema (0).
-	t.is_local:					Indica se a transação é local ou distribuída.
-	t.is_enlisted:				Indica se a transação está enlistada em um recurso.
-	t.is_bound:					Indica se a transação está vinculada a um banco de dados.
-	t.open_transaction_count:	Contagem de transações abertas.
+    t.transaction_id:			ID da transação.
+    t.transaction_descriptor:	Descrição da transação.
+    t.enlist_count:				Contagem de enlistamentos (quantas vezes a transação foi enlistada).
+    t.is_user_transaction:		Indica se a transação é uma transação de usuário (1) ou do sistema (0).
+    t.is_local:					Indica se a transação é local ou distribuída.
+    t.is_enlisted:				Indica se a transação está enlistada em um recurso.
+    t.is_bound:					Indica se a transação está vinculada a um banco de dados.
+    t.open_transaction_count:	Contagem de transações abertas.
     query_text:                 Comando SQL da sessão.
     kill_spid:                  Comando para finalizar a sessão.
 */
@@ -28,7 +28,7 @@ SELECT
     t.is_enlisted,
     t.is_bound,
     t.open_transaction_count,
-	CAST(r.text AS XML) AS query_text,
+    CAST(r.text AS XML) AS query_text,
     CONCAT('KILL ', s.session_id, ';') AS kill_spid
 FROM 
     sys.dm_tran_session_transactions AS t

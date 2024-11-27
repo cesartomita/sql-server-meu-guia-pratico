@@ -27,11 +27,6 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Como fazer uma busca usando SELECT](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
 - [Como fazer uma busca usando WHERE](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
 - [Como inserir um novo registro usando INSERT INTO](01%20-%20Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
-- [Como usar uma junção do tipo CROSS JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20CROSS%20JOIN.sql)
-- [Como usar uma junção do tipo INNER JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20INNER%20JOIN.sql)
-- [Como usar uma junção do tipo LEFT JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20LEFT%20JOIN.sql)
-- [Como usar uma junção do tipo RIGHT JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20RIGHT%20JOIN.sql)
-- [Como usar uma junção do tipo SELF JOIN](01%20-%20Comandos%20iniciais/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20SELF%20JOIN.sql)
 ## 02 - Comandos intermediários
 
 - [Usando a função SUM](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
@@ -85,3 +80,27 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Listando valores do campo MS_Description das propriedades estendidas](99%20-%20DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
 - [Mostrar transações abertas](99%20-%20DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
 - [Tabelas com maior uso de espaço em disco](99%20-%20DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
+## Imagens
+
+- [Operadores de conjunto.png](Imagens/Operadores%20de%20conjunto.png)
+- [Usando junções (JOINS).png](Imagens/Usando%20jun%C3%A7%C3%B5es%20(JOINS).png)
+## Operadores de conjunto
+
+- [README.md](Samples/Operadores%20de%20conjunto/README.md)
+- [Usando operador EXCEPT](Samples/Operadores%20de%20conjunto/Usando%20operador%20EXCEPT.sql)
+- [Usando operador INTERSECT](Samples/Operadores%20de%20conjunto/Usando%20operador%20INTERSECT.sql)
+- [Usando operador UNION ALL](Samples/Operadores%20de%20conjunto/Usando%20operador%20UNION%20ALL.sql)
+- [Usando operador UNION](Samples/Operadores%20de%20conjunto/Usando%20operador%20UNION.sql)
+## Usando junções (JOINS)
+
+- [Como usar uma junção do tipo CROSS JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20CROSS%20JOIN.sql)
+- [Como usar uma junção do tipo FULL JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20FULL%20JOIN.sql)
+- [Como usar uma junção do tipo INNER JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20INNER%20JOIN.sql)
+- [Como usar uma junção do tipo LEFT JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20LEFT%20JOIN.sql)
+- [Como usar uma junção do tipo RIGHT JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20RIGHT%20JOIN.sql)
+- [Como usar uma junção do tipo SELF JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20SELF%20JOIN.sql)
+- [README.md](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/README.md)
+## Samples
+
+- [Operadores de conjunto](Samples/Operadores%20de%20conjunto/)
+- [Usando junções (JOINS)](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/)

@@ -51,8 +51,8 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 ## 05 - Agrupando dados
 
 - [Agrupando dados com GROUP BY e filtrando com HAVING](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20filtrando%20com%20HAVING.sql)
+- [Agrupando dados com GROUP BY e usando CUBE para agregação das colunas](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
 - [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
-- [Agrupando dados com GROUP BY usando CUBE para agregação das colunas](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
 - [Agrupando dados com GROUP BY](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY.sql)
 ## 06 - Requisições em API
 
@@ -70,20 +70,21 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 
 - [Fazendo uma sub-consulta no SELECT](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
 - [Fazendo uma sub-consulta no WHERE](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20WHERE.sql)
-## 99 - DBA
-
-- [Como fazer um DETACH e ATTACH](99%20-%20DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
-- [Como movimentar os arquivos MDF e LDF](99%20-%20DBA/Como%20movimentar%20os%20arquivos%20MDF%20e%20LDF.sql)
-- [Informações gerais do banco de dados](99%20-%20DBA/Informa%C3%A7%C3%B5es%20gerais%20do%20banco%20de%20dados.sql)
-- [Listando as FOREIGN KEY de um DATABASE com SCHEMA](99%20-%20DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE%20com%20SCHEMA.sql)
-- [Listando as FOREIGN KEY de um DATABASE](99%20-%20DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
-- [Listando valores do campo MS_Description das propriedades estendidas](99%20-%20DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
-- [Mostrar transações abertas](99%20-%20DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
-- [Tabelas com maior uso de espaço em disco](99%20-%20DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
 ## Imagens
 
 - [Operadores de conjunto.png](Imagens/Operadores%20de%20conjunto.png)
 - [Usando junções (JOINS).png](Imagens/Usando%20jun%C3%A7%C3%B5es%20(JOINS).png)
+## DBA
+
+- [Como fazer um DETACH e ATTACH](Samples/DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
+- [Como movimentar os arquivos MDF e LDF](Samples/DBA/Como%20movimentar%20os%20arquivos%20MDF%20e%20LDF.sql)
+- [Como verificar conexões ativas no SQL Server](Samples/DBA/Como%20verificar%20conex%C3%B5es%20ativas%20no%20SQL%20Server.sql)
+- [Informações gerais do banco de dados](Samples/DBA/Informa%C3%A7%C3%B5es%20gerais%20do%20banco%20de%20dados.sql)
+- [Listando as FOREIGN KEY de um DATABASE com SCHEMA](Samples/DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE%20com%20SCHEMA.sql)
+- [Listando as FOREIGN KEY de um DATABASE](Samples/DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
+- [Listando valores do campo MS_Description das propriedades estendidas](Samples/DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
+- [Mostrar transações abertas](Samples/DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
+- [Tabelas com maior uso de espaço em disco](Samples/DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
 ## Operadores de conjunto
 
 - [README.md](Samples/Operadores%20de%20conjunto/README.md)
@@ -102,5 +103,6 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [README.md](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/README.md)
 ## Samples
 
+- [DBA](Samples/DBA/)
 - [Operadores de conjunto](Samples/Operadores%20de%20conjunto/)
 - [Usando junções (JOINS)](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/)

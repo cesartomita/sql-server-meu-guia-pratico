@@ -9,12 +9,10 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Northwind](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 - [BikeStores](https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/)
 
-## 00 - Principais conceitos
+## 00 - Imagens
 
-- [O que é DCL](00%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DCL.sql)
-- [O que é DDL](00%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DDL.sql)
-- [O que é DML](00%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DML.sql)
-- [O que é TCL](00%20-%20Principais%20conceitos/O%20que%20%C3%A9%20TCL.sql)
+- [Operadores de conjunto.png](00%20-%20Imagens/Operadores%20de%20conjunto.png)
+- [Usando junções (JOINS).png](00%20-%20Imagens/Usando%20jun%C3%A7%C3%B5es%20(JOINS).png)
 ## 01 - Comandos iniciais
 
 - [Como apagar um registro usando DELETE](01%20-%20Comandos%20iniciais/Como%20apagar%20um%20registro%20usando%20DELETE.sql)
@@ -27,6 +25,12 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Como fazer uma busca usando SELECT](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
 - [Como fazer uma busca usando WHERE](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
 - [Como inserir um novo registro usando INSERT INTO](01%20-%20Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
+## 01 - Principais conceitos
+
+- [O que é DCL](01%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DCL.sql)
+- [O que é DDL](01%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DDL.sql)
+- [O que é DML](01%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DML.sql)
+- [O que é TCL](01%20-%20Principais%20conceitos/O%20que%20%C3%A9%20TCL.sql)
 ## 02 - Comandos intermediários
 
 - [Usando a função SUM](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
@@ -48,6 +52,20 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Usando a função MAX](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MAX.sql)
 - [Usando a função MIN](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MIN.sql)
 - [Usando a função SUM](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
+## 04 - Funções de cadeia de caracteres (String Functions)
+
+- [Usando a função CHARINDEX e PATINDEX](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CHARINDEX%20e%20PATINDEX.sql)
+- [Usando a função CONCAT](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CONCAT.sql)
+- [Usando a função DATALENGTH](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20DATALENGTH.sql)
+- [Usando a função FORMATMESSAGE](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20FORMATMESSAGE.sql)
+- [Usando a função LEFT e RIGHT](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LEFT%20e%20RIGHT.sql)
+- [Usando a função LEN](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LEN.sql)
+- [Usando a função QUOTENAME](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20QUOTENAME.sql)
+- [Usando a função REPLACE](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20REPLACE.sql)
+- [Usando a função STRING_SPLIT](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20STRING_SPLIT.sql)
+- [Usando a função STUFF](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20STUFF.sql)
+- [Usando a função SUBSTRING](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20SUBSTRING.sql)
+- [Usando a função UPPER e LOWER](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20UPPER%20e%20LOWER.sql)
 ## 05 - Agrupando dados
 
 - [Agrupando dados com GROUP BY e filtrando com HAVING](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20filtrando%20com%20HAVING.sql)
@@ -70,39 +88,33 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 
 - [Fazendo uma sub-consulta no SELECT](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
 - [Fazendo uma sub-consulta no WHERE](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20WHERE.sql)
-## Imagens
-
-- [Operadores de conjunto.png](Imagens/Operadores%20de%20conjunto.png)
-- [Usando junções (JOINS).png](Imagens/Usando%20jun%C3%A7%C3%B5es%20(JOINS).png)
 ## DBA
 
-- [Como fazer um DETACH e ATTACH](Samples/DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
-- [Como movimentar os arquivos MDF e LDF](Samples/DBA/Como%20movimentar%20os%20arquivos%20MDF%20e%20LDF.sql)
-- [Como verificar conexões ativas no SQL Server](Samples/DBA/Como%20verificar%20conex%C3%B5es%20ativas%20no%20SQL%20Server.sql)
-- [Informações gerais do banco de dados](Samples/DBA/Informa%C3%A7%C3%B5es%20gerais%20do%20banco%20de%20dados.sql)
-- [Listando as FOREIGN KEY de um DATABASE com SCHEMA](Samples/DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE%20com%20SCHEMA.sql)
-- [Listando as FOREIGN KEY de um DATABASE](Samples/DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
-- [Listando valores do campo MS_Description das propriedades estendidas](Samples/DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
-- [Mostrar transações abertas](Samples/DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
-- [Tabelas com maior uso de espaço em disco](Samples/DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
+- [Como fazer um DETACH e ATTACH](DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
+- [Como movimentar os arquivos MDF e LDF](DBA/Como%20movimentar%20os%20arquivos%20MDF%20e%20LDF.sql)
+- [Como verificar conexões ativas no SQL Server](DBA/Como%20verificar%20conex%C3%B5es%20ativas%20no%20SQL%20Server.sql)
+- [Informações gerais do banco de dados](DBA/Informa%C3%A7%C3%B5es%20gerais%20do%20banco%20de%20dados.sql)
+- [Listando as FOREIGN KEY de um DATABASE com SCHEMA](DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE%20com%20SCHEMA.sql)
+- [Listando as FOREIGN KEY de um DATABASE](DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
+- [Listando valores do campo MS_Description das propriedades estendidas](DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
+- [Mostrar transações abertas](DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
+- [Tabelas com maior uso de espaço em disco](DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
+## Exemplos práticos
+
+- [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
 ## Operadores de conjunto
 
-- [README.md](Samples/Operadores%20de%20conjunto/README.md)
-- [Usando operador EXCEPT](Samples/Operadores%20de%20conjunto/Usando%20operador%20EXCEPT.sql)
-- [Usando operador INTERSECT](Samples/Operadores%20de%20conjunto/Usando%20operador%20INTERSECT.sql)
-- [Usando operador UNION ALL](Samples/Operadores%20de%20conjunto/Usando%20operador%20UNION%20ALL.sql)
-- [Usando operador UNION](Samples/Operadores%20de%20conjunto/Usando%20operador%20UNION.sql)
+- [README.md](Operadores%20de%20conjunto/README.md)
+- [Usando operador EXCEPT](Operadores%20de%20conjunto/Usando%20operador%20EXCEPT.sql)
+- [Usando operador INTERSECT](Operadores%20de%20conjunto/Usando%20operador%20INTERSECT.sql)
+- [Usando operador UNION ALL](Operadores%20de%20conjunto/Usando%20operador%20UNION%20ALL.sql)
+- [Usando operador UNION](Operadores%20de%20conjunto/Usando%20operador%20UNION.sql)
 ## Usando junções (JOINS)
 
-- [Como usar uma junção do tipo CROSS JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20CROSS%20JOIN.sql)
-- [Como usar uma junção do tipo FULL JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20FULL%20JOIN.sql)
-- [Como usar uma junção do tipo INNER JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20INNER%20JOIN.sql)
-- [Como usar uma junção do tipo LEFT JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20LEFT%20JOIN.sql)
-- [Como usar uma junção do tipo RIGHT JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20RIGHT%20JOIN.sql)
-- [Como usar uma junção do tipo SELF JOIN](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20SELF%20JOIN.sql)
-- [README.md](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/README.md)
-## Samples
-
-- [DBA](Samples/DBA/)
-- [Operadores de conjunto](Samples/Operadores%20de%20conjunto/)
-- [Usando junções (JOINS)](Samples/Usando%20jun%C3%A7%C3%B5es%20(JOINS)/)
+- [Como usar uma junção do tipo CROSS JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20CROSS%20JOIN.sql)
+- [Como usar uma junção do tipo FULL JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20FULL%20JOIN.sql)
+- [Como usar uma junção do tipo INNER JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20INNER%20JOIN.sql)
+- [Como usar uma junção do tipo LEFT JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20LEFT%20JOIN.sql)
+- [Como usar uma junção do tipo RIGHT JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20RIGHT%20JOIN.sql)
+- [Como usar uma junção do tipo SELF JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20SELF%20JOIN.sql)
+- [README.md](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/README.md)

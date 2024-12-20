@@ -88,6 +88,10 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 
 - [Fazendo uma sub-consulta no SELECT](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
 - [Fazendo uma sub-consulta no WHERE](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20WHERE.sql)
+## Agrupar multiplas linhas em uma única linha
+
+- [Usando STRING_AGG para agrupar linhas](Agrupar%20multiplas%20linhas%20em%20uma%20%C3%BAnica%20linha/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
+- [Usando XML para agrupar linhas](Agrupar%20multiplas%20linhas%20em%20uma%20%C3%BAnica%20linha/Usando%20XML%20para%20agrupar%20linhas.sql)
 ## DBA
 
 - [Como fazer um DETACH e ATTACH](DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)

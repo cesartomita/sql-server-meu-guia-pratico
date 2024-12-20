@@ -2,7 +2,7 @@
 
 Esse repositório é para quem está começando a aprender SQL, especialmente SQL Server, mas também serve para quem já tem mais experiência na área. Aqui, compartilho um pouco do que aprendi, com alguns scripts para ajudar na sua trajetória. =)
 
- ### Hello World:
+ ### Hello world:
 
 <code>SELECT 'Hello world!';</code>
 
@@ -74,26 +74,14 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Agrupando dados com GROUP BY e usando CUBE para agregação das colunas](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
 - [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
 - [Agrupando dados com GROUP BY](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY.sql)
-## 06 - Requisições em API
-
-- [Exemplo de uma função de requisição em uma API REST](06%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
-- [Exemplo de uma requisição em uma API REST ](06%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
-- [Exemplo de uma requisição em uma API SOAP - 01](06%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
-- [Exemplo de uma requisição em uma API SOAP - 02](06%20-%20Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
-## 07 - Usando PIVOT e UNPIVOT
-
-- [Transformar colunas em linhas usando UNPIVOT dinâmico](07%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT%20din%C3%A2mico.sql)
-- [Transformar colunas em linhas usando UNPIVOT](07%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT.sql)
-- [Transformar linhas em colunas usando PIVOT dinâmico](07%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT%20din%C3%A2mico.sql)
-- [Transformar linhas em colunas usando PIVOT](07%20-%20Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT.sql)
-## 08 - Usando uma SUBQUERY
-
-- [Fazendo uma sub-consulta no SELECT](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
-- [Fazendo uma sub-consulta no WHERE](08%20-%20Usando%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20WHERE.sql)
 ## Agrupar multiplas linhas em uma única linha
 
 - [Usando STRING_AGG para agrupar linhas](Agrupar%20multiplas%20linhas%20em%20uma%20%C3%BAnica%20linha/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
 - [Usando XML para agrupar linhas](Agrupar%20multiplas%20linhas%20em%20uma%20%C3%BAnica%20linha/Usando%20XML%20para%20agrupar%20linhas.sql)
+## Como fazer uma SUBQUERY
+
+- [Fazendo uma sub-consulta no SELECT](Como%20fazer%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
+- [Fazendo uma sub-consulta no WHERE](Como%20fazer%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20WHERE.sql)
 ## DBA
 
 - [Como fazer um DETACH e ATTACH](DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
@@ -115,6 +103,12 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Usando operador INTERSECT](Operadores%20de%20conjunto/Usando%20operador%20INTERSECT.sql)
 - [Usando operador UNION ALL](Operadores%20de%20conjunto/Usando%20operador%20UNION%20ALL.sql)
 - [Usando operador UNION](Operadores%20de%20conjunto/Usando%20operador%20UNION.sql)
+## Requisições em API
+
+- [Exemplo de uma função de requisição em uma API REST](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
+- [Exemplo de uma requisição em uma API REST ](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
+- [Exemplo de uma requisição em uma API SOAP - 01](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
+- [Exemplo de uma requisição em uma API SOAP - 02](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
 ## Usando junções (JOINS)
 
 - [Como usar uma junção do tipo CROSS JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20CROSS%20JOIN.sql)
@@ -124,3 +118,9 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Como usar uma junção do tipo RIGHT JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20RIGHT%20JOIN.sql)
 - [Como usar uma junção do tipo SELF JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20SELF%20JOIN.sql)
 - [README.md](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/README.md)
+## Usando PIVOT e UNPIVOT
+
+- [Transformar colunas em linhas usando UNPIVOT dinâmico](Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT%20din%C3%A2mico.sql)
+- [Transformar colunas em linhas usando UNPIVOT](Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT.sql)
+- [Transformar linhas em colunas usando PIVOT dinâmico](Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT%20din%C3%A2mico.sql)
+- [Transformar linhas em colunas usando PIVOT](Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT.sql)

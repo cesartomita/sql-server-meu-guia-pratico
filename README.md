@@ -2,7 +2,9 @@
 
 Esse repositório é para quem está começando a aprender SQL, especialmente SQL Server, mas também serve para quem já tem mais experiência na área. Aqui, compartilho um pouco do que aprendi, com alguns scripts para ajudar na sua trajetória. =)
 
- <code>SELECT 'Hello world!';</code>
+ ## Hello World:
+
+<code>SELECT 'Hello world!';</code>
 
  ### Databases utilizados:
 - [AdventureWorks2014](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)

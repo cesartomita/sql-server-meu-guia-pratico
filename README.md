@@ -2,7 +2,7 @@
 
 Esse repositório é para quem está começando a aprender SQL, especialmente SQL Server, mas também serve para quem já tem mais experiência na área. Aqui, compartilho um pouco do que aprendi, com alguns scripts para ajudar na sua trajetória. =)
 
- ## Hello World:
+ ### Hello World:
 
 <code>SELECT 'Hello world!';</code>
 

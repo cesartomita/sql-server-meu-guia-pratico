@@ -109,6 +109,17 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Exemplo de uma requisição em uma API REST ](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
 - [Exemplo de uma requisição em uma API SOAP - 01](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
 - [Exemplo de uma requisição em uma API SOAP - 02](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
+## Usando DATEPART, DATEDIFF e DATEADD
+
+- [Alterando ano, mês e dia copy](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Alterando%20ano,%20m%C3%AAs%20e%20dia%20copy.sql)
+- [Alterando ano, mês e dia](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Alterando%20ano,%20m%C3%AAs%20e%20dia.sql)
+- [Calculando diferença de anos, meses e dias](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Calculando%20diferen%C3%A7a%20de%20anos,%20meses%20e%20dias.sql)
+- [Calculando diferença de horas, minutos e segundos](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Calculando%20diferen%C3%A7a%20de%20horas,%20minutos%20e%20segundos.sql)
+- [Descobrindo o dia e semana do ano](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Descobrindo%20o%20dia%20e%20semana%20do%20ano.sql)
+- [Extraindo ano, mês e dia](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Extraindo%20ano,%20m%C3%AAs%20e%20dia.sql)
+- [Extraindo hora, minuto, segundo e milissegundo](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Extraindo%20hora,%20minuto,%20segundo%20e%20milissegundo.sql)
+- [Obtendo o dia da semana](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Obtendo%20o%20dia%20da%20semana.sql)
+- [Obtendo o trimestre](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Obtendo%20o%20trimestre.sql)
 ## Usando junções (JOINS)
 
 - [Como usar uma junção do tipo CROSS JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20CROSS%20JOIN.sql)

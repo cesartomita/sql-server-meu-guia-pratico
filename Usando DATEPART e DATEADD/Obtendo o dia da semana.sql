@@ -1,0 +1,14 @@
+
+DECLARE @DATA DATE = '2014-07-17';
+
+SELECT
+    DATEPART(WEEKDAY, @DATA) AS DIASEMANA,
+    CASE
+        WHEN DATEPART(WEEKDAY, @DATA) = 1 THEN 'Domingo'
+        WHEN DATEPART(WEEKDAY, @DATA) = 2 THEN 'Segunda-feira'
+        WHEN DATEPART(WEEKDAY, @DATA) = 3 THEN 'Terça-feira'
+        WHEN DATEPART(WEEKDAY, @DATA) = 4 THEN 'Quarta-feira'
+        WHEN DATEPART(WEEKDAY, @DATA) = 5 THEN 'Quinta-feira'
+        WHEN DATEPART(WEEKDAY, @DATA) = 6 THEN 'Sexta-feira'
+        WHEN DATEPART(WEEKDAY, @DATA) = 6 THEN 'Sábado'
+        END AS NOMEDIASEMANA;

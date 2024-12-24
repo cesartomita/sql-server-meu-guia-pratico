@@ -1,6 +1,6 @@
 # SQL Server Samples
 
-Esse repositório é para quem está começando a aprender SQL, especialmente SQL Server, mas também serve para quem já tem mais experiência na área. Aqui, compartilho um pouco do que aprendi, com alguns scripts para ajudar na sua trajetória. =)
+Esse repositório é para quem está começando a aprender a linguagem SQL, especialmente o T-SQL (usado no SQL Server), mas também serve para quem já tem mais experiência na área. Aqui, compartilho um pouco do que aprendi, com alguns scripts para ajudar na sua trajetória. =)
 
  ### Hello world:
 
@@ -101,7 +101,7 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Usando função ABS - Retorna o valor absoluto de um número](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ABS%20-%20Retorna%20o%20valor%20absoluto%20de%20um%20n%C3%BAmero.sql)
 - [Usando função CEILING - Arredonda um número para cima](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20CEILING%20-%20Arredonda%20um%20n%C3%BAmero%20para%20cima.sql)
 - [Usando função FLOOR - Arredonda um número para baixo](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20FLOOR%20-%20Arredonda%20um%20n%C3%BAmero%20para%20baixo.sql)
-- [Usando função RAND](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20RAND.sql)
+- [Usando função RAND - Gera um número aleatório entre 0 e 1](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20RAND%20-%20Gera%20um%20n%C3%BAmero%20aleat%C3%B3rio%20entre%200%20e%201.sql)
 - [Usando função ROUND - Arredonda um número para um número específico de casas decimais](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ROUND%20-%20Arredonda%20um%20n%C3%BAmero%20para%20um%20n%C3%BAmero%20espec%C3%ADfico%20de%20casas%20decimais.sql)
 ## Operadores de conjunto
 

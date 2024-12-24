@@ -54,20 +54,6 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 - [Usando a função MAX](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MAX.sql)
 - [Usando a função MIN](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MIN.sql)
 - [Usando a função SUM](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
-## 04 - Funções de cadeia de caracteres (String Functions)
-
-- [Usando a função CHARINDEX e PATINDEX](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CHARINDEX%20e%20PATINDEX.sql)
-- [Usando a função CONCAT](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CONCAT.sql)
-- [Usando a função DATALENGTH](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20DATALENGTH.sql)
-- [Usando a função FORMATMESSAGE](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20FORMATMESSAGE.sql)
-- [Usando a função LEFT e RIGHT](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LEFT%20e%20RIGHT.sql)
-- [Usando a função LEN](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LEN.sql)
-- [Usando a função QUOTENAME](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20QUOTENAME.sql)
-- [Usando a função REPLACE](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20REPLACE.sql)
-- [Usando a função STRING_SPLIT](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20STRING_SPLIT.sql)
-- [Usando a função STUFF](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20STUFF.sql)
-- [Usando a função SUBSTRING](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20SUBSTRING.sql)
-- [Usando a função UPPER e LOWER](04%20-%20Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20UPPER%20e%20LOWER.sql)
 ## 05 - Agrupando dados
 
 - [Agrupando dados com GROUP BY e filtrando com HAVING](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20filtrando%20com%20HAVING.sql)
@@ -96,6 +82,27 @@ Esse repositório é para quem está começando a aprender SQL, especialmente SQ
 ## Exemplos práticos
 
 - [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
+## Funções de cadeia de caracteres (String functions)
+
+- [Usando a função CHARINDEX e PATINDEX](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CHARINDEX%20e%20PATINDEX.sql)
+- [Usando a função CONCAT](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CONCAT.sql)
+- [Usando a função DATALENGTH](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20DATALENGTH.sql)
+- [Usando a função FORMATMESSAGE](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20FORMATMESSAGE.sql)
+- [Usando a função LEFT e RIGHT](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LEFT%20e%20RIGHT.sql)
+- [Usando a função LEN](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LEN.sql)
+- [Usando a função QUOTENAME](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20QUOTENAME.sql)
+- [Usando a função REPLACE](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20REPLACE.sql)
+- [Usando a função STRING_SPLIT](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20STRING_SPLIT.sql)
+- [Usando a função STUFF](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20STUFF.sql)
+- [Usando a função SUBSTRING](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20SUBSTRING.sql)
+- [Usando a função UPPER e LOWER](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20UPPER%20e%20LOWER.sql)
+## Funções matemáticas (Mathematical functions)
+
+- [Usando função ABS - Retorna o valor absoluto de um número](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ABS%20-%20Retorna%20o%20valor%20absoluto%20de%20um%20n%C3%BAmero.sql)
+- [Usando função CEILING - Arredonda um número para cima](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20CEILING%20-%20Arredonda%20um%20n%C3%BAmero%20para%20cima.sql)
+- [Usando função FLOOR - Arredonda um número para baixo](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20FLOOR%20-%20Arredonda%20um%20n%C3%BAmero%20para%20baixo.sql)
+- [Usando função RAND](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20RAND.sql)
+- [Usando função ROUND - Arredonda um número para um número específico de casas decimais](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ROUND%20-%20Arredonda%20um%20n%C3%BAmero%20para%20um%20n%C3%BAmero%20espec%C3%ADfico%20de%20casas%20decimais.sql)
 ## Operadores de conjunto
 
 - [README.md](Operadores%20de%20conjunto/README.md)

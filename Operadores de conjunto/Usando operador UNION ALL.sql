@@ -1,3 +1,5 @@
+-- UNION ALL: Similar ao UNION, mas inclui todos os valores, incluindo duplicados. Ou seja, retorna todos os registros das consultas combinadas.
+
 USE AdventureWorks2014;
 
 SELECT

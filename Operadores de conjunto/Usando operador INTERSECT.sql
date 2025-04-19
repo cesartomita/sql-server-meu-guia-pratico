@@ -1,3 +1,5 @@
+-- INTERSECT: Retorna apenas os registros que são comuns a ambas as consultas, ou seja, a interseção dos conjuntos de dados.
+
 USE AdventureWorks2014;
 
 SELECT

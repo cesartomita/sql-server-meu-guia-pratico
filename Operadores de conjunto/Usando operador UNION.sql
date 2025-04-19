@@ -1,3 +1,6 @@
+-- UNION: Combina os resultados de duas ou mais consultas e retorna apenas valores distintos, ou seja, elimina duplicatas.
+
+
 USE AdventureWorks2014;
 
 SELECT

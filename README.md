@@ -66,6 +66,7 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 
 - [Agrupando múltiplas linhas em somente uma (Versão 2005+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202005+).sql)
 - [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
+- [Removendo nome com acentos (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Removendo%20nome%20com%20acentos%20(Vers%C3%A3o%202017+).sql)
 - [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
 ## Funções de agregação
 
@@ -87,6 +88,7 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Usando a função STRING_SPLIT](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20STRING_SPLIT.sql)
 - [Usando a função STUFF](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20STUFF.sql)
 - [Usando a função SUBSTRING](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20SUBSTRING.sql)
+- [Usando a função TRANSLATE](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20TRANSLATE.sql)
 - [Usando a função UPPER e LOWER](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20UPPER%20e%20LOWER.sql)
 ## Funções matemáticas (Mathematical functions)
 

@@ -11,59 +11,42 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Northwind](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 - [BikeStores](https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/)
 
-## 00 - Imagens
+## Agrupando dados
 
-- [Operadores de conjunto.png](00%20-%20Imagens/Operadores%20de%20conjunto.png)
-- [Usando junções (JOINS).png](00%20-%20Imagens/Usando%20jun%C3%A7%C3%B5es%20(JOINS).png)
-## 01 - Comandos iniciais
-
-- [Como apagar um registro usando DELETE](01%20-%20Comandos%20iniciais/Como%20apagar%20um%20registro%20usando%20DELETE.sql)
-- [Como atualizar um campo usando UPDATE](01%20-%20Comandos%20iniciais/Como%20atualizar%20um%20campo%20usando%20UPDATE.sql)
-- [Como criar um banco de dados (DATABASE) com parâmetros](01%20-%20Comandos%20iniciais/Como%20criar%20um%20banco%20de%20dados%20(DATABASE)%20com%20par%C3%A2metros.sql)
-- [Como criar um banco de dados (DATABASE) simples](01%20-%20Comandos%20iniciais/Como%20criar%20um%20banco%20de%20dados%20(DATABASE)%20simples.sql)
-- [Como criar uma tabela (TABLE)](01%20-%20Comandos%20iniciais/Como%20criar%20uma%20tabela%20(TABLE).sql)
-- [Como fazer uma busca usando ORDER BY](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20ORDER%20BY.sql)
-- [Como fazer uma busca usando SELECT com DISTINCT](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT%20com%20DISTINCT.sql)
-- [Como fazer uma busca usando SELECT](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
-- [Como fazer uma busca usando WHERE](01%20-%20Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
-- [Como inserir um novo registro usando INSERT INTO](01%20-%20Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
-## 01 - Principais conceitos
-
-- [O que é DCL](01%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DCL.sql)
-- [O que é DDL](01%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DDL.sql)
-- [O que é DML](01%20-%20Principais%20conceitos/O%20que%20%C3%A9%20DML.sql)
-- [O que é TCL](01%20-%20Principais%20conceitos/O%20que%20%C3%A9%20TCL.sql)
-## 02 - Comandos intermediários
-
-- [Usando a função SUM](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
-- [Usando as funções LAG e LEAD](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20as%20fun%C3%A7%C3%B5es%20LAG%20e%20LEAD.sql)
-- [Usando funções de agregação](02%20-%20Comandos%20intermedi%C3%A1rios/Usando%20fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o.sql)
-## 03 - Comandos avançados
-
-- [Como fazer um INSERT com SELECT (INSERT INTO SELECT)](03%20-%20Comandos%20avan%C3%A7ados/Como%20fazer%20um%20INSERT%20com%20SELECT%20(INSERT%20INTO%20SELECT).sql)
-- [Como fazer um UPDATE com SELECT](03%20-%20Comandos%20avan%C3%A7ados/Como%20fazer%20um%20UPDATE%20com%20SELECT.sql)
-- [Criando tabela temporária na global](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20global.sql)
-- [Criando tabela temporária na sessão](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20sess%C3%A3o.sql)
-- [Criando tabela temporária usando VALUES - 01](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2001.sql)
-- [Criando tabela temporária usando VALUES - 02](03%20-%20Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2002.sql)
-- [Criando uma variável de tabela](03%20-%20Comandos%20avan%C3%A7ados/Criando%20uma%20vari%C3%A1vel%20de%20tabela.sql)
-## 04 - Funções de agregação
-
-- [Usando a função AVG](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20AVG.sql)
-- [Usando a função COUNT](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20COUNT.sql)
-- [Usando a função MAX](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MAX.sql)
-- [Usando a função MIN](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MIN.sql)
-- [Usando a função SUM](04%20-%20Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
-## 05 - Agrupando dados
-
-- [Agrupando dados com GROUP BY e filtrando com HAVING](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20filtrando%20com%20HAVING.sql)
-- [Agrupando dados com GROUP BY e usando CUBE para agregação das colunas](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
-- [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
-- [Agrupando dados com GROUP BY](05%20-%20Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY.sql)
+- [Agrupando dados com GROUP BY e filtrando com HAVING](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20filtrando%20com%20HAVING.sql)
+- [Agrupando dados com GROUP BY e usando CUBE para agregação das colunas](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
+- [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
+- [Agrupando dados com GROUP BY](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY.sql)
 ## Agrupar multiplas linhas em uma única linha
 
 - [Usando STRING_AGG para agrupar linhas](Agrupar%20multiplas%20linhas%20em%20uma%20%C3%BAnica%20linha/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
 - [Usando XML para agrupar linhas](Agrupar%20multiplas%20linhas%20em%20uma%20%C3%BAnica%20linha/Usando%20XML%20para%20agrupar%20linhas.sql)
+## Comandos avançados
+
+- [Como fazer um INSERT com SELECT (INSERT INTO SELECT)](Comandos%20avan%C3%A7ados/Como%20fazer%20um%20INSERT%20com%20SELECT%20(INSERT%20INTO%20SELECT).sql)
+- [Como fazer um UPDATE com SELECT](Comandos%20avan%C3%A7ados/Como%20fazer%20um%20UPDATE%20com%20SELECT.sql)
+- [Criando tabela temporária na global](Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20global.sql)
+- [Criando tabela temporária na sessão](Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20sess%C3%A3o.sql)
+- [Criando tabela temporária usando VALUES - 01](Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2001.sql)
+- [Criando tabela temporária usando VALUES - 02](Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2002.sql)
+- [Criando uma variável de tabela](Comandos%20avan%C3%A7ados/Criando%20uma%20vari%C3%A1vel%20de%20tabela.sql)
+## Comandos iniciais
+
+- [Como apagar um registro usando DELETE](Comandos%20iniciais/Como%20apagar%20um%20registro%20usando%20DELETE.sql)
+- [Como atualizar um campo usando UPDATE](Comandos%20iniciais/Como%20atualizar%20um%20campo%20usando%20UPDATE.sql)
+- [Como criar um banco de dados (DATABASE) com parâmetros](Comandos%20iniciais/Como%20criar%20um%20banco%20de%20dados%20(DATABASE)%20com%20par%C3%A2metros.sql)
+- [Como criar um banco de dados (DATABASE) simples](Comandos%20iniciais/Como%20criar%20um%20banco%20de%20dados%20(DATABASE)%20simples.sql)
+- [Como criar uma tabela (TABLE)](Comandos%20iniciais/Como%20criar%20uma%20tabela%20(TABLE).sql)
+- [Como fazer uma busca usando ORDER BY](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20ORDER%20BY.sql)
+- [Como fazer uma busca usando SELECT com DISTINCT](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT%20com%20DISTINCT.sql)
+- [Como fazer uma busca usando SELECT](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
+- [Como fazer uma busca usando WHERE](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
+- [Como inserir um novo registro usando INSERT INTO](Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
+## Comandos intermediários
+
+- [Usando a função SUM](Comandos%20intermedi%C3%A1rios/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
+- [Usando as funções LAG e LEAD](Comandos%20intermedi%C3%A1rios/Usando%20as%20fun%C3%A7%C3%B5es%20LAG%20e%20LEAD.sql)
+- [Usando funções de agregação](Comandos%20intermedi%C3%A1rios/Usando%20fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o.sql)
 ## Como fazer uma SUBQUERY
 
 - [Fazendo uma sub-consulta no SELECT](Como%20fazer%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
@@ -82,6 +65,13 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 ## Exemplos práticos
 
 - [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
+## Funções de agregação
+
+- [Usando a função AVG](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20AVG.sql)
+- [Usando a função COUNT](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20COUNT.sql)
+- [Usando a função MAX](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MAX.sql)
+- [Usando a função MIN](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MIN.sql)
+- [Usando a função SUM](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
 ## Funções de cadeia de caracteres (String functions)
 
 - [Usando a função CHARINDEX e PATINDEX](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CHARINDEX%20e%20PATINDEX.sql)
@@ -110,12 +100,24 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Usando operador INTERSECT](Operadores%20de%20conjunto/Usando%20operador%20INTERSECT.sql)
 - [Usando operador UNION ALL](Operadores%20de%20conjunto/Usando%20operador%20UNION%20ALL.sql)
 - [Usando operador UNION](Operadores%20de%20conjunto/Usando%20operador%20UNION.sql)
+## Principais conceitos
+
+- [O que é DCL](Principais%20conceitos/O%20que%20%C3%A9%20DCL.sql)
+- [O que é DDL](Principais%20conceitos/O%20que%20%C3%A9%20DDL.sql)
+- [O que é DML](Principais%20conceitos/O%20que%20%C3%A9%20DML.sql)
+- [O que é TCL](Principais%20conceitos/O%20que%20%C3%A9%20TCL.sql)
 ## Requisições em API
 
 - [Exemplo de uma função de requisição em uma API REST](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
 - [Exemplo de uma requisição em uma API REST ](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
 - [Exemplo de uma requisição em uma API SOAP - 01](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
 - [Exemplo de uma requisição em uma API SOAP - 02](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
+## Usando CURSOR
+
+- [Exemplo de como usar um CURSOR DYNAMIC, navegando para trente e para trás](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20DYNAMIC,%20navegando%20para%20trente%20e%20para%20tr%C3%A1s.sql)
+- [Exemplo de como usar um CURSOR FORWARD_ONLY](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20FORWARD_ONLY.sql)
+- [Exemplo de como usar um CURSOR simples](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20simples.sql)
+- [Exemplo de como usar um CURSOR STATIC, navegando para trente e para trás](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20STATIC,%20navegando%20para%20trente%20e%20para%20tr%C3%A1s.sql)
 ## Usando DATEPART, DATEDIFF e DATEADD
 
 - [Alterando ano, mês e dia copy](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Alterando%20ano,%20m%C3%AAs%20e%20dia%20copy.sql)

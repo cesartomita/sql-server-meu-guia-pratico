@@ -64,6 +64,8 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Tabelas com maior uso de espaço em disco](DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
 ## Exemplos práticos
 
+- [Agrupando múltiplas linhas em somente uma (Versão 2005+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202005+).sql)
+- [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
 - [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
 ## Funções de agregação
 
@@ -95,7 +97,6 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Usando função ROUND - Arredonda um número para um número específico de casas decimais](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ROUND%20-%20Arredonda%20um%20n%C3%BAmero%20para%20um%20n%C3%BAmero%20espec%C3%ADfico%20de%20casas%20decimais.sql)
 ## Operadores de conjunto
 
-- [README.md](Operadores%20de%20conjunto/README.md)
 - [Usando operador EXCEPT](Operadores%20de%20conjunto/Usando%20operador%20EXCEPT.sql)
 - [Usando operador INTERSECT](Operadores%20de%20conjunto/Usando%20operador%20INTERSECT.sql)
 - [Usando operador UNION ALL](Operadores%20de%20conjunto/Usando%20operador%20UNION%20ALL.sql)

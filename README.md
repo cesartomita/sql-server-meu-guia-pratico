@@ -51,6 +51,9 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 
 - [Fazendo uma sub-consulta no SELECT](Como%20fazer%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
 - [Fazendo uma sub-consulta no WHERE](Como%20fazer%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20WHERE.sql)
+## Conversão
+
+- [Convertendo data](Convers%C3%A3o/Convertendo%20data.sql)
 ## DBA
 
 - [Como fazer um DETACH e ATTACH](DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)

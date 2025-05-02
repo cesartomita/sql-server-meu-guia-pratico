@@ -118,6 +118,14 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Exemplo de uma requisição em uma API REST ](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
 - [Exemplo de uma requisição em uma API SOAP - 01](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
 - [Exemplo de uma requisição em uma API SOAP - 02](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
+## Transações (Transactions)
+
+- [BEGIN TRANSACTION com COMMIT](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20COMMIT.sql)
+- [BEGIN TRANSACTION com ROLLBACK](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20ROLLBACK.sql)
+- [BEGIN TRANSACTION com SAVE TRANSACTION](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20SAVE%20TRANSACTION.sql)
+- [BEGIN TRANSACTION com TRY CATCH](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20TRY%20CATCH.sql)
+- [TRANCOUNT - Contando quantidade transações](Transa%C3%A7%C3%B5es%20(Transactions)/TRANCOUNT%20-%20Contando%20quantidade%20transa%C3%A7%C3%B5es.sql)
+- [XACT_STATE - Informação do estado da transação](Transa%C3%A7%C3%B5es%20(Transactions)/XACT_STATE%20-%20Informa%C3%A7%C3%A3o%20do%20estado%20da%20transa%C3%A7%C3%A3o.sql)
 ## Usando CURSOR
 
 - [Exemplo de como usar um CURSOR DYNAMIC, navegando para trente e para trás](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20DYNAMIC,%20navegando%20para%20trente%20e%20para%20tr%C3%A1s.sql)

@@ -1,15 +1,10 @@
 # SQL Server - Meu guia prático
 
-Esse repositório é para quem está começando a aprender a linguagem SQL, especialmente o T-SQL (usado no SQL Server), mas também serve para quem já tem mais experiência na área. Aqui, compartilho um pouco do que aprendi, com alguns scripts para ajudar na sua trajetória.
+Criei este repositório com o objetivo de compartilhar meus conhecimentos sobre a linguagem SQL, especialmente T-SQL (utilizada no SQL Server). Minha intenção é ajudar outras pessoas por meio de scripts práticos que mostram como aplicar SQL no dia a dia.
 
- ### Hello world:
+Sempre que possível, adiciono novos conteúdos com base nos desafios que enfrento e nas situações que estudo. Assim, este repositório também se torna um acervo pessoal, onde posso recorrer no futuro sempre que precisar relembrar alguns conceitos ou soluções aplicadas.
 
-<code>SELECT 'Hello world!';</code>
-
- ### Databases utilizados:
-- [AdventureWorks2014](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
-- [Northwind](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
-- [BikeStores](https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/)
+Caso esteja procurando por algo específico, deixo abaixo um índice com os scripts disponíveis. Você pode utilizar o atalho <code>Ctrl + F</code> (no Windows) para buscar por um termo diretamente nesta página.
 
 ## Agrupando dados
 

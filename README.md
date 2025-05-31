@@ -1,4 +1,4 @@
-# SQL Server Samples
+# SQL Server - Meu guia prático
 
 Esse repositório é para quem está começando a aprender a linguagem SQL, especialmente o T-SQL (usado no SQL Server), mas também serve para quem já tem mais experiência na área. Aqui, compartilho um pouco do que aprendi, com alguns scripts para ajudar na sua trajetória.
 
@@ -42,11 +42,6 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Como fazer uma busca usando SELECT](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
 - [Como fazer uma busca usando WHERE](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
 - [Como inserir um novo registro usando INSERT INTO](Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
-## Comandos intermediários
-
-- [Usando a função SUM](Comandos%20intermedi%C3%A1rios/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
-- [Usando as funções LAG e LEAD](Comandos%20intermedi%C3%A1rios/Usando%20as%20fun%C3%A7%C3%B5es%20LAG%20e%20LEAD.sql)
-- [Usando funções de agregação](Comandos%20intermedi%C3%A1rios/Usando%20fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o.sql)
 ## Como fazer uma SUBQUERY
 
 - [Fazendo uma sub-consulta no SELECT](Como%20fazer%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
@@ -71,6 +66,13 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
 - [Removendo nome com acentos (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Removendo%20nome%20com%20acentos%20(Vers%C3%A3o%202017+).sql)
 - [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
+## Funções analíticas (Analytic functions)
+
+- [Usando a função CUME_DIST](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CUME_DIST.sql)
+- [Usando a função FIRST_VALUE](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20FIRST_VALUE.sql)
+- [Usando a função LAST_VALUE](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LAST_VALUE.sql)
+- [Usando a função PERCENT_RANK](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20PERCENT_RANK.sql)
+- [Usando as funções LAG e LEAD](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20as%20fun%C3%A7%C3%B5es%20LAG%20e%20LEAD.sql)
 ## Funções de agregação
 
 - [Usando a função AVG](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20AVG.sql)
@@ -93,6 +95,9 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Usando a função SUBSTRING](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20SUBSTRING.sql)
 - [Usando a função TRANSLATE](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20TRANSLATE.sql)
 - [Usando a função UPPER e LOWER](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20UPPER%20e%20LOWER.sql)
+## Funções de classificações (Ranking)
+
+- [Usando a função DENSE_RANK](Fun%C3%A7%C3%B5es%20de%20classifica%C3%A7%C3%B5es%20(Ranking)/Usando%20a%20fun%C3%A7%C3%A3o%20DENSE_RANK.sql)
 ## Funções matemáticas (Mathematical functions)
 
 - [Usando função ABS - Retorna o valor absoluto de um número](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ABS%20-%20Retorna%20o%20valor%20absoluto%20de%20um%20n%C3%BAmero.sql)
@@ -151,7 +156,6 @@ Esse repositório é para quem está começando a aprender a linguagem SQL, espe
 - [Como usar uma junção do tipo LEFT JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20LEFT%20JOIN.sql)
 - [Como usar uma junção do tipo RIGHT JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20RIGHT%20JOIN.sql)
 - [Como usar uma junção do tipo SELF JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20SELF%20JOIN.sql)
-- [README.md](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/README.md)
 ## Usando PIVOT e UNPIVOT
 
 - [Transformar colunas em linhas usando UNPIVOT dinâmico](Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT%20din%C3%A2mico.sql)

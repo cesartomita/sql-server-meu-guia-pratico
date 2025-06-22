@@ -93,6 +93,12 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 ## Funções de classificações (Ranking)
 
 - [Usando a função DENSE_RANK](Fun%C3%A7%C3%B5es%20de%20classifica%C3%A7%C3%B5es%20(Ranking)/Usando%20a%20fun%C3%A7%C3%A3o%20DENSE_RANK.sql)
+## Funções de sistema (System Functions)
+
+- [@@IDENTITY](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@IDENTITY.sql)
+- [@@ROWCOUNT](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@ROWCOUNT.sql)
+- [@@TRANCOUNT](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@TRANCOUNT.sql)
+- [ROWCOUNT_BIG](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/ROWCOUNT_BIG.sql)
 ## Funções matemáticas (Mathematical functions)
 
 - [Usando função ABS - Retorna o valor absoluto de um número](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ABS%20-%20Retorna%20o%20valor%20absoluto%20de%20um%20n%C3%BAmero.sql)

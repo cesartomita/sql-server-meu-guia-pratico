@@ -1,6 +1,6 @@
 # SQL Server - Meu guia prático
 
-Criei este repositório com o objetivo de compartilhar meus conhecimentos sobre a linguagem SQL, especialmente T-SQL (utilizada no SQL Server). Minha intenção é ajudar outras pessoas por meio de scripts práticos que mostram como aplicar SQL no dia a dia.
+Criei este repositório com o objetivo de compartilhar meus conhecimentos sobre a linguagem SQL (especialmente T-SQL, utilizada no SQL Server). Minha intenção é ajudar outras pessoas por meio de scripts práticos que mostram como aplicar SQL no dia a dia.
 
 Sempre que possível, adiciono novos conteúdos com base nos desafios que enfrento e nas situações que estudo. Assim, este repositório também se torna um acervo pessoal, onde posso recorrer no futuro sempre que precisar relembrar alguns conceitos ou soluções aplicadas.
 
@@ -12,10 +12,6 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Agrupando dados com GROUP BY e usando CUBE para agregação das colunas](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
 - [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
 - [Agrupando dados com GROUP BY](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY.sql)
-## Agrupar multiplas linhas em uma única linha
-
-- [Usando STRING_AGG para agrupar linhas](Agrupar%20multiplas%20linhas%20em%20uma%20%C3%BAnica%20linha/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
-- [Usando XML para agrupar linhas](Agrupar%20multiplas%20linhas%20em%20uma%20%C3%BAnica%20linha/Usando%20XML%20para%20agrupar%20linhas.sql)
 ## Comandos avançados
 
 - [Como fazer um INSERT com SELECT (INSERT INTO SELECT)](Comandos%20avan%C3%A7ados/Como%20fazer%20um%20INSERT%20com%20SELECT%20(INSERT%20INTO%20SELECT).sql)
@@ -60,6 +56,8 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Agrupando múltiplas linhas em somente uma (Versão 2005+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202005+).sql)
 - [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
 - [Removendo nome com acentos (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Removendo%20nome%20com%20acentos%20(Vers%C3%A3o%202017+).sql)
+- [Usando STRING_AGG para agrupar linhas](Exemplos%20pr%C3%A1ticos/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
+- [Usando XML para agrupar linhas](Exemplos%20pr%C3%A1ticos/Usando%20XML%20para%20agrupar%20linhas.sql)
 - [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
 ## Funções analíticas (Analytic functions)
 

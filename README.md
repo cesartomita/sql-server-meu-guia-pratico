@@ -68,13 +68,13 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Usando a função LAST_VALUE](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LAST_VALUE.sql)
 - [Usando a função PERCENT_RANK](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20PERCENT_RANK.sql)
 - [Usando as funções LAG e LEAD](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20as%20fun%C3%A7%C3%B5es%20LAG%20e%20LEAD.sql)
-## Funções de agregação
+## Funções de agregação (Aggregate Functions)
 
-- [Usando a função AVG](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20AVG.sql)
-- [Usando a função COUNT](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20COUNT.sql)
-- [Usando a função MAX](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MAX.sql)
-- [Usando a função MIN](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20MIN.sql)
-- [Usando a função SUM](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
+- [Usando a função AVG](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20AVG.sql)
+- [Usando a função COUNT](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20COUNT.sql)
+- [Usando a função MAX](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20MAX.sql)
+- [Usando a função MIN](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20MIN.sql)
+- [Usando a função SUM](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)
 ## Funções de cadeia de caracteres (String functions)
 
 - [Usando a função CHARINDEX e PATINDEX](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CHARINDEX%20e%20PATINDEX.sql)
@@ -99,6 +99,11 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [@@ROWCOUNT](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@ROWCOUNT.sql)
 - [@@TRANCOUNT](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@TRANCOUNT.sql)
 - [ROWCOUNT_BIG](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/ROWCOUNT_BIG.sql)
+## Funções JSON (JSON Functions)
+
+- [JSON_ARRAY](Fun%C3%A7%C3%B5es%20JSON%20(JSON%20Functions)/JSON_ARRAY.sql)
+- [JSON_QUERY](Fun%C3%A7%C3%B5es%20JSON%20(JSON%20Functions)/JSON_QUERY.sql)
+- [JSON_VALUE](Fun%C3%A7%C3%B5es%20JSON%20(JSON%20Functions)/JSON_VALUE.sql)
 ## Funções matemáticas (Mathematical functions)
 
 - [Usando função ABS - Retorna o valor absoluto de um número](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ABS%20-%20Retorna%20o%20valor%20absoluto%20de%20um%20n%C3%BAmero.sql)

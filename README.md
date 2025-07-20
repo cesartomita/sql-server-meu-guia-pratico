@@ -96,6 +96,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [@@IDENTITY](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@IDENTITY.sql)
 - [@@ROWCOUNT](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@ROWCOUNT.sql)
 - [@@TRANCOUNT](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@TRANCOUNT.sql)
+- [HOST_NAME](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/HOST_NAME.sql)
 - [ROWCOUNT_BIG](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/ROWCOUNT_BIG.sql)
 ## Funções JSON (JSON Functions)
 
@@ -145,8 +146,8 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Exemplo de como usar um CURSOR STATIC, navegando para trente e para trás](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20STATIC,%20navegando%20para%20trente%20e%20para%20tr%C3%A1s.sql)
 ## Usando DATEPART, DATEDIFF e DATEADD
 
-- [Alterando ano, mês e dia copy](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Alterando%20ano,%20m%C3%AAs%20e%20dia%20copy.sql)
-- [Alterando ano, mês e dia](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Alterando%20ano,%20m%C3%AAs%20e%20dia.sql)
+- [Alterando dias, meses e anos](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Alterando%20dias,%20meses%20e%20anos.sql)
+- [Alterando segundos, minutos e horas](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Alterando%20segundos,%20minutos%20e%20horas.sql)
 - [Calculando diferença de anos, meses e dias](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Calculando%20diferen%C3%A7a%20de%20anos,%20meses%20e%20dias.sql)
 - [Calculando diferença de horas, minutos e segundos](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Calculando%20diferen%C3%A7a%20de%20horas,%20minutos%20e%20segundos.sql)
 - [Descobrindo o dia e semana do ano](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Descobrindo%20o%20dia%20e%20semana%20do%20ano.sql)

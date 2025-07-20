@@ -107,8 +107,10 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Usando função ABS - Retorna o valor absoluto de um número](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ABS%20-%20Retorna%20o%20valor%20absoluto%20de%20um%20n%C3%BAmero.sql)
 - [Usando função CEILING - Arredonda um número para cima](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20CEILING%20-%20Arredonda%20um%20n%C3%BAmero%20para%20cima.sql)
 - [Usando função FLOOR - Arredonda um número para baixo](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20FLOOR%20-%20Arredonda%20um%20n%C3%BAmero%20para%20baixo.sql)
+- [Usando função POWER - Calculando potenciação](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20POWER%20-%20Calculando%20potencia%C3%A7%C3%A3o.sql)
 - [Usando função RAND - Gera um número aleatório entre 0 e 1](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20RAND%20-%20Gera%20um%20n%C3%BAmero%20aleat%C3%B3rio%20entre%200%20e%201.sql)
 - [Usando função ROUND - Arredonda um número para um número específico de casas decimais](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ROUND%20-%20Arredonda%20um%20n%C3%BAmero%20para%20um%20n%C3%BAmero%20espec%C3%ADfico%20de%20casas%20decimais.sql)
+- [Usando função SQRT - Retorna a raiz quadrada de um valor](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20SQRT%20-%20Retorna%20a%20raiz%20quadrada%20de%20um%20valor.sql)
 ## Operadores de conjunto
 
 - [Usando operador EXCEPT](Operadores%20de%20conjunto/Usando%20operador%20EXCEPT.sql)

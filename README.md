@@ -12,6 +12,13 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Agrupando dados com GROUP BY e usando CUBE para agregação das colunas](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
 - [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
 - [Agrupando dados com GROUP BY](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY.sql)
+## Categorias da linguagem SQL
+
+- [O que é DCL](Categorias%20da%20linguagem%20SQL/O%20que%20%C3%A9%20DCL.sql)
+- [O que é DDL](Categorias%20da%20linguagem%20SQL/O%20que%20%C3%A9%20DDL.sql)
+- [O que é DML](Categorias%20da%20linguagem%20SQL/O%20que%20%C3%A9%20DML.sql)
+- [O que é DQL](Categorias%20da%20linguagem%20SQL/O%20que%20%C3%A9%20DQL.sql)
+- [O que é DTL ou TCL](Categorias%20da%20linguagem%20SQL/O%20que%20%C3%A9%20DTL%20ou%20TCL.sql)
 ## Comandos avançados
 
 - [Como fazer um INSERT com SELECT (INSERT INTO SELECT)](Comandos%20avan%C3%A7ados/Como%20fazer%20um%20INSERT%20com%20SELECT%20(INSERT%20INTO%20SELECT).sql)
@@ -118,12 +125,6 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Usando operador INTERSECT](Operadores%20de%20conjunto/Usando%20operador%20INTERSECT.sql)
 - [Usando operador UNION ALL](Operadores%20de%20conjunto/Usando%20operador%20UNION%20ALL.sql)
 - [Usando operador UNION](Operadores%20de%20conjunto/Usando%20operador%20UNION.sql)
-## Principais conceitos
-
-- [O que é DCL](Principais%20conceitos/O%20que%20%C3%A9%20DCL.sql)
-- [O que é DDL](Principais%20conceitos/O%20que%20%C3%A9%20DDL.sql)
-- [O que é DML](Principais%20conceitos/O%20que%20%C3%A9%20DML.sql)
-- [O que é TCL](Principais%20conceitos/O%20que%20%C3%A9%20TCL.sql)
 ## Requisições em API
 
 - [Exemplo de uma função de requisição em uma API REST](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)

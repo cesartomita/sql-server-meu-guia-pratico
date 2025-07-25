@@ -17,7 +17,12 @@ BEGIN TRY;
 END TRY
 BEGIN CATCH;
 
-	IF (XACT_STATE() <> 0) ROLLBACK;
+	IF (@@TRANCOUNT > 0)
+	BEGIN
+		PRINT('Realizando rollback.')
+		ROLLBACK;
+	END;
+
 	THROW;
 
 END CATCH;

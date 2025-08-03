@@ -40,10 +40,6 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Como fazer uma busca usando SELECT](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
 - [Como fazer uma busca usando WHERE](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
 - [Como inserir um novo registro usando INSERT INTO](Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
-## Como fazer uma SUBQUERY
-
-- [Fazendo uma sub-consulta no SELECT](Como%20fazer%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20SELECT.sql)
-- [Fazendo uma sub-consulta no WHERE](Como%20fazer%20uma%20SUBQUERY/Fazendo%20uma%20sub-consulta%20no%20WHERE.sql)
 ## Conversão
 
 - [Convertendo data](Convers%C3%A3o/Convertendo%20data.sql)
@@ -58,14 +54,16 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Listando valores do campo MS_Description das propriedades estendidas](DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
 - [Mostrar transações abertas](DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
 - [Tabelas com maior uso de espaço em disco](DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
-## Exemplos práticos
+## Exemplos práticos (Practical examples)
 
-- [Agrupando múltiplas linhas em somente uma (Versão 2005+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202005+).sql)
-- [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
-- [Removendo nome com acentos (Versão 2017+)](Exemplos%20pr%C3%A1ticos/Removendo%20nome%20com%20acentos%20(Vers%C3%A3o%202017+).sql)
-- [Usando STRING_AGG para agrupar linhas](Exemplos%20pr%C3%A1ticos/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
-- [Usando XML para agrupar linhas](Exemplos%20pr%C3%A1ticos/Usando%20XML%20para%20agrupar%20linhas.sql)
-- [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
+- [Agrupando múltiplas linhas em somente uma (Versão 2005+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202005+).sql)
+- [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
+- [Fazendo uma sub-consulta no SELECT (Subqueries)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Fazendo%20uma%20sub-consulta%20no%20SELECT%20(Subqueries).sql)
+- [Fazendo uma sub-consulta no WHERE (Subqueries)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Fazendo%20uma%20sub-consulta%20no%20WHERE%20(Subqueries).sql)
+- [Removendo nome com acentos (Versão 2017+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Removendo%20nome%20com%20acentos%20(Vers%C3%A3o%202017+).sql)
+- [Usando STRING_AGG para agrupar linhas](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
+- [Usando XML para agrupar linhas](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Usando%20XML%20para%20agrupar%20linhas.sql)
+- [Validando domínio de e-mails e e-mails inválidos](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Validando%20dom%C3%ADnio%20de%20e-mails%20e%20e-mails%20inv%C3%A1lidos.sql)
 ## Funções analíticas (Analytic functions)
 
 - [Usando a função CUME_DIST](Fun%C3%A7%C3%B5es%20anal%C3%ADticas%20(Analytic%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CUME_DIST.sql)
@@ -84,6 +82,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 
 - [Usando a função CHARINDEX e PATINDEX](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CHARINDEX%20e%20PATINDEX.sql)
 - [Usando a função CONCAT](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CONCAT.sql)
+- [Usando a função CONCAT_WS](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20CONCAT_WS.sql)
 - [Usando a função DATALENGTH](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20DATALENGTH.sql)
 - [Usando a função FORMATMESSAGE](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20FORMATMESSAGE.sql)
 - [Usando a função LEFT e RIGHT](Fun%C3%A7%C3%B5es%20de%20cadeia%20de%20caracteres%20(String%20functions)/Usando%20a%20fun%C3%A7%C3%A3o%20LEFT%20e%20RIGHT.sql)
@@ -119,12 +118,12 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Usando função RAND - Gera um número aleatório entre 0 e 1](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20RAND%20-%20Gera%20um%20n%C3%BAmero%20aleat%C3%B3rio%20entre%200%20e%201.sql)
 - [Usando função ROUND - Arredonda um número para um número específico de casas decimais](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ROUND%20-%20Arredonda%20um%20n%C3%BAmero%20para%20um%20n%C3%BAmero%20espec%C3%ADfico%20de%20casas%20decimais.sql)
 - [Usando função SQRT - Retorna a raiz quadrada de um valor](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20SQRT%20-%20Retorna%20a%20raiz%20quadrada%20de%20um%20valor.sql)
-## Operadores de conjunto
+## Operadores de conjunto (Set Operators)
 
-- [Usando operador EXCEPT](Operadores%20de%20conjunto/Usando%20operador%20EXCEPT.sql)
-- [Usando operador INTERSECT](Operadores%20de%20conjunto/Usando%20operador%20INTERSECT.sql)
-- [Usando operador UNION ALL](Operadores%20de%20conjunto/Usando%20operador%20UNION%20ALL.sql)
-- [Usando operador UNION](Operadores%20de%20conjunto/Usando%20operador%20UNION.sql)
+- [Usando operador EXCEPT](Operadores%20de%20conjunto%20(Set%20Operators)/Usando%20operador%20EXCEPT.sql)
+- [Usando operador INTERSECT](Operadores%20de%20conjunto%20(Set%20Operators)/Usando%20operador%20INTERSECT.sql)
+- [Usando operador UNION ALL](Operadores%20de%20conjunto%20(Set%20Operators)/Usando%20operador%20UNION%20ALL.sql)
+- [Usando operador UNION](Operadores%20de%20conjunto%20(Set%20Operators)/Usando%20operador%20UNION.sql)
 ## Requisições em API
 
 - [Exemplo de uma função de requisição em uma API REST](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
@@ -136,7 +135,8 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [BEGIN TRANSACTION com COMMIT](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20COMMIT.sql)
 - [BEGIN TRANSACTION com ROLLBACK](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20ROLLBACK.sql)
 - [BEGIN TRANSACTION com SAVE TRANSACTION](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20SAVE%20TRANSACTION.sql)
-- [BEGIN TRANSACTION com TRY CATCH](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20TRY%20CATCH.sql)
+- [BEGIN TRANSACTION com TRY CATCH usando TRANCOUNT](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20TRY%20CATCH%20usando%20TRANCOUNT.sql)
+- [BEGIN TRANSACTION com TRY CATCH usando XACT_STATE](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20TRY%20CATCH%20usando%20XACT_STATE.sql)
 - [TRANCOUNT - Contando quantidade transações](Transa%C3%A7%C3%B5es%20(Transactions)/TRANCOUNT%20-%20Contando%20quantidade%20transa%C3%A7%C3%B5es.sql)
 - [XACT_STATE - Informação do estado da transação](Transa%C3%A7%C3%B5es%20(Transactions)/XACT_STATE%20-%20Informa%C3%A7%C3%A3o%20do%20estado%20da%20transa%C3%A7%C3%A3o.sql)
 ## Usando CURSOR
@@ -166,6 +166,8 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Como usar uma junção do tipo SELF JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20SELF%20JOIN.sql)
 ## Usando PIVOT e UNPIVOT
 
+- [Simulando PIVOT usando CASE WHEN](Usando%20PIVOT%20e%20UNPIVOT/Simulando%20PIVOT%20usando%20CASE%20WHEN.sql)
+- [Sumilando UNPIVOT usando CROSS JOIN](Usando%20PIVOT%20e%20UNPIVOT/Sumilando%20UNPIVOT%20usando%20CROSS%20JOIN.sql)
 - [Transformar colunas em linhas usando UNPIVOT dinâmico](Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT%20din%C3%A2mico.sql)
 - [Transformar colunas em linhas usando UNPIVOT](Usando%20PIVOT%20e%20UNPIVOT/Transformar%20colunas%20em%20linhas%20usando%20UNPIVOT.sql)
 - [Transformar linhas em colunas usando PIVOT dinâmico](Usando%20PIVOT%20e%20UNPIVOT/Transformar%20linhas%20em%20colunas%20usando%20PIVOT%20din%C3%A2mico.sql)

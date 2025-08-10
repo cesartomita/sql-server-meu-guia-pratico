@@ -1,6 +1,6 @@
 # SQL Server - Meu guia prático
 
-Criei este repositório com o objetivo de compartilhar meus conhecimentos sobre a linguagem SQL (especialmente T-SQL, utilizada no SQL Server). Minha intenção é ajudar outras pessoas por meio de scripts práticos que mostram como aplicar SQL no dia a dia.
+Criei este repositório com o objetivo de compartilhar meus conhecimentos sobre o banco de dados SQL Server e a linguagem SQL (especialmente T-SQL, utilizada no SQL Server). Minha intenção é ajudar outras pessoas por meio de scripts práticos que mostram como aplicar SQL no dia a dia.
 
 Sempre que possível, adiciono novos conteúdos com base nos desafios que enfrento e nas situações que estudo. Assim, este repositório também se torna um acervo pessoal, onde posso recorrer no futuro sempre que precisar relembrar alguns conceitos ou soluções aplicadas.
 

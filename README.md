@@ -40,9 +40,6 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Como fazer uma busca usando SELECT](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
 - [Como fazer uma busca usando WHERE](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
 - [Como inserir um novo registro usando INSERT INTO](Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
-## Conversão
-
-- [Convertendo data](Convers%C3%A3o/Convertendo%20data.sql)
 ## DBA
 
 - [Como fazer um DETACH e ATTACH](DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
@@ -60,6 +57,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
 - [Fazendo uma sub-consulta no SELECT (Subqueries)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Fazendo%20uma%20sub-consulta%20no%20SELECT%20(Subqueries).sql)
 - [Fazendo uma sub-consulta no WHERE (Subqueries)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Fazendo%20uma%20sub-consulta%20no%20WHERE%20(Subqueries).sql)
+- [Formatando data com CONVERT](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Formatando%20data%20com%20CONVERT.sql)
 - [Removendo nome com acentos (Versão 2017+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Removendo%20nome%20com%20acentos%20(Vers%C3%A3o%202017+).sql)
 - [Usando STRING_AGG para agrupar linhas](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
 - [Usando XML para agrupar linhas](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Usando%20XML%20para%20agrupar%20linhas.sql)

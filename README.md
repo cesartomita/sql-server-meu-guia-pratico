@@ -95,6 +95,9 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 ## Funções de classificações (Ranking)
 
 - [Usando a função DENSE_RANK](Fun%C3%A7%C3%B5es%20de%20classifica%C3%A7%C3%B5es%20(Ranking)/Usando%20a%20fun%C3%A7%C3%A3o%20DENSE_RANK.sql)
+- [Usando a função NTILE](Fun%C3%A7%C3%B5es%20de%20classifica%C3%A7%C3%B5es%20(Ranking)/Usando%20a%20fun%C3%A7%C3%A3o%20NTILE.sql)
+- [Usando a função RANK](Fun%C3%A7%C3%B5es%20de%20classifica%C3%A7%C3%B5es%20(Ranking)/Usando%20a%20fun%C3%A7%C3%A3o%20RANK.sql)
+- [Usando a função ROW_NUMBER](Fun%C3%A7%C3%B5es%20de%20classifica%C3%A7%C3%B5es%20(Ranking)/Usando%20a%20fun%C3%A7%C3%A3o%20ROW_NUMBER.sql)
 ## Funções de sistema (System Functions)
 
 - [@@IDENTITY](Fun%C3%A7%C3%B5es%20de%20sistema%20(System%20Functions)/@@IDENTITY.sql)

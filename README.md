@@ -6,12 +6,12 @@ Sempre que possível, adiciono novos conteúdos com base nos desafios que enfren
 
 Caso esteja procurando por algo específico, deixo abaixo um índice com os scripts disponíveis. Você pode utilizar o atalho <code>Ctrl + F</code> (no Windows) para buscar por um termo diretamente nesta página.
 
-## Agrupando dados
+## Agrupando dados com GROUP BY
 
-- [Agrupando dados com GROUP BY e filtrando com HAVING](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20filtrando%20com%20HAVING.sql)
-- [Agrupando dados com GROUP BY e usando CUBE para agregação das colunas](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
-- [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
-- [Agrupando dados com GROUP BY](Agrupando%20dados/Agrupando%20dados%20com%20GROUP%20BY.sql)
+- [Agrupando dados com GROUP BY e filtrando com HAVING](Agrupando%20dados%20com%20GROUP%20BY/Agrupando%20dados%20com%20GROUP%20BY%20e%20filtrando%20com%20HAVING.sql)
+- [Agrupando dados com GROUP BY e usando CUBE para agregação das colunas](Agrupando%20dados%20com%20GROUP%20BY/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20CUBE%20para%20agrega%C3%A7%C3%A3o%20das%20colunas.sql)
+- [Agrupando dados com GROUP BY e usando ROLLUP para subtotais](Agrupando%20dados%20com%20GROUP%20BY/Agrupando%20dados%20com%20GROUP%20BY%20e%20usando%20ROLLUP%20para%20subtotais.sql)
+- [Agrupando dados com GROUP BY](Agrupando%20dados%20com%20GROUP%20BY/Agrupando%20dados%20com%20GROUP%20BY.sql)
 ## Categorias da linguagem SQL
 
 - [O que é DCL](Categorias%20da%20linguagem%20SQL/O%20que%20%C3%A9%20DCL.sql)
@@ -146,6 +146,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Exemplo de como usar um CURSOR FORWARD_ONLY](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20FORWARD_ONLY.sql)
 - [Exemplo de como usar um CURSOR simples](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20simples.sql)
 - [Exemplo de como usar um CURSOR STATIC, navegando para trente e para trás](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20STATIC,%20navegando%20para%20trente%20e%20para%20tr%C3%A1s.sql)
+- [Exemplo de como usar um CURSOR STATIC, usando a função CURSOR_ROWS](Usando%20CURSOR/Exemplo%20de%20como%20usar%20um%20CURSOR%20STATIC,%20usando%20a%20fun%C3%A7%C3%A3o%20CURSOR_ROWS.sql)
 ## Usando DATEPART, DATEDIFF e DATEADD
 
 - [Alterando dias, meses e anos](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Alterando%20dias,%20meses%20e%20anos.sql)

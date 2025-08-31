@@ -45,6 +45,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Como fazer um DETACH e ATTACH](DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
 - [Como movimentar os arquivos MDF e LDF](DBA/Como%20movimentar%20os%20arquivos%20MDF%20e%20LDF.sql)
 - [Como verificar conexões ativas no SQL Server](DBA/Como%20verificar%20conex%C3%B5es%20ativas%20no%20SQL%20Server.sql)
+- [Histórico de RESTORES de BACKUPS dos DATABASES](DBA/Hist%C3%B3rico%20de%20RESTORES%20de%20BACKUPS%20dos%20DATABASES.sql)
 - [Informações gerais do banco de dados](DBA/Informa%C3%A7%C3%B5es%20gerais%20do%20banco%20de%20dados.sql)
 - [Listando as FOREIGN KEY de um DATABASE com SCHEMA](DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE%20com%20SCHEMA.sql)
 - [Listando as FOREIGN KEY de um DATABASE](DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)

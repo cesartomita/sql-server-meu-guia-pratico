@@ -51,6 +51,11 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Listando valores do campo MS_Description das propriedades estendidas](DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
 - [Mostrar transações abertas](DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
 - [Tabelas com maior uso de espaço em disco](DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
+## DBCC
+
+- [DBCC DROPCLEANBUFFERS- Limpar o buffer pool (páginas de dados em cache)](DBCC/DBCC%20DROPCLEANBUFFERS-%20Limpar%20o%20buffer%20pool%20(p%C3%A1ginas%20de%20dados%20em%20cache).sql)
+- [DBCC FREEPROCCACHE - Limpar o plan cache (plano de execução)](DBCC/DBCC%20FREEPROCCACHE%20-%20Limpar%20o%20plan%20cache%20(plano%20de%20execu%C3%A7%C3%A3o).sql)
+- [DBCC SQLPERF(LOGSPACE) - Monitorar espaço de log de transações](DBCC/DBCC%20SQLPERF(LOGSPACE)%20-%20Monitorar%20espa%C3%A7o%20de%20log%20de%20transa%C3%A7%C3%B5es.sql)
 ## Exemplos práticos (Practical examples)
 
 - [Agrupando múltiplas linhas em somente uma (Versão 2005+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202005+).sql)

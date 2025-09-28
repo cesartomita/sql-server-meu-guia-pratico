@@ -23,6 +23,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 
 - [Como fazer um INSERT com SELECT (INSERT INTO SELECT)](Comandos%20avan%C3%A7ados/Como%20fazer%20um%20INSERT%20com%20SELECT%20(INSERT%20INTO%20SELECT).sql)
 - [Como fazer um UPDATE com SELECT](Comandos%20avan%C3%A7ados/Como%20fazer%20um%20UPDATE%20com%20SELECT.sql)
+- [Criando tabela CTE (Common Table Expressions)](Comandos%20avan%C3%A7ados/Criando%20tabela%20CTE%20(Common%20Table%20Expressions).sql)
 - [Criando tabela temporária na global](Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20global.sql)
 - [Criando tabela temporária na sessão](Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20na%20sess%C3%A3o.sql)
 - [Criando tabela temporária usando VALUES - 01](Comandos%20avan%C3%A7ados/Criando%20tabela%20tempor%C3%A1ria%20usando%20VALUES%20-%2001.sql)
@@ -40,6 +41,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Como fazer uma busca usando SELECT](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20SELECT.sql)
 - [Como fazer uma busca usando WHERE](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
 - [Como inserir um novo registro usando INSERT INTO](Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
+- [Como limitar resultados com TOP](Comandos%20iniciais/Como%20limitar%20resultados%20com%20TOP.sql)
 ## DBA
 
 - [Como fazer um DETACH e ATTACH](DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)
@@ -52,6 +54,9 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Listando valores do campo MS_Description das propriedades estendidas](DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
 - [Mostrar transações abertas](DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
 - [Tabelas com maior uso de espaço em disco](DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)
+- [Tamanho dos dancos de dados (MDF e LDF)](DBA/Tamanho%20dos%20dancos%20de%20dados%20(MDF%20e%20LDF).sql)
+- [Top 10 queries que mais consomem CPU](DBA/Top%2010%20queries%20que%20mais%20consomem%20CPU.sql)
+- [Top 10 queries que mais consomem disco](DBA/Top%2010%20queries%20que%20mais%20consomem%20disco.sql)
 ## DBCC
 
 - [DBCC DROPCLEANBUFFERS- Limpar o buffer pool (páginas de dados em cache)](DBCC/DBCC%20DROPCLEANBUFFERS-%20Limpar%20o%20buffer%20pool%20(p%C3%A1ginas%20de%20dados%20em%20cache).sql)

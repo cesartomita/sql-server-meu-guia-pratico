@@ -1,3 +1,4 @@
+
 -- Top 10 queries que mais consomem I/O (leituras lógicas)
 SELECT TOP 10
     qs.total_logical_reads,
@@ -20,10 +21,11 @@ SELECT TOP 10
         qt.text
     ) AS query_text,
     qs.plan_handle,
-    DB_NAME(qt.dbid) AS database_name
+    COALESCE(DB_NAME(qt.dbid), DB_NAME(CONVERT(INT, qp.dbid))) AS database_name
 FROM
     sys.dm_exec_query_stats qs
     CROSS APPLY sys.dm_exec_sql_text(qs.sql_handle) qt
+    OUTER APPLY sys.dm_exec_query_plan(qs.plan_handle) qp
 WHERE
     qs.execution_count > 0
 ORDER BY

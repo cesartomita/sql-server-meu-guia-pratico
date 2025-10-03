@@ -1,10 +1,10 @@
 -- Top 10 queries que mais consomem CPU
 SELECT TOP 10
-    qs.total_worker_time/1000 AS cpu_total_ms,
-    qs.total_worker_time/qs.execution_count/1000 AS cpu_avg_ms,
+    qs.total_worker_time / 1000 AS cpu_total_ms,
+    qs.total_worker_time / qs.execution_count / 1000 AS cpu_avg_ms,
     qs.execution_count,
-    qs.total_elapsed_time/1000 AS duration_total_ms,
-    qs.total_elapsed_time/qs.execution_count/1000 AS duration_avg_ms,
+    qs.total_elapsed_time / 1000 AS duration_total_ms,
+    qs.total_elapsed_time / qs.execution_count / 1000 AS duration_avg_ms,
     qs.creation_time,
     qs.last_execution_time,
     COALESCE(
@@ -19,10 +19,11 @@ SELECT TOP 10
         qt.text
     ) AS query_text,
     qs.plan_handle,
-    DB_NAME(qt.dbid) AS database_name
+    COALESCE(DB_NAME(qt.dbid), DB_NAME(CONVERT(INT, qp.dbid))) AS database_name
 FROM
     sys.dm_exec_query_stats qs
     CROSS APPLY sys.dm_exec_sql_text(qs.sql_handle) qt
+    OUTER APPLY sys.dm_exec_query_plan(qs.plan_handle) qp
 WHERE
     qs.execution_count > 0
 ORDER BY

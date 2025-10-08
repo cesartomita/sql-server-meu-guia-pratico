@@ -84,6 +84,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 
 - [Usando a função AVG](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20AVG.sql)
 - [Usando a função COUNT](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20COUNT.sql)
+- [Usando a função COUNT_BIG](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20COUNT_BIG.sql)
 - [Usando a função MAX](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20MAX.sql)
 - [Usando a função MIN](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20MIN.sql)
 - [Usando a função SUM](Fun%C3%A7%C3%B5es%20de%20agrega%C3%A7%C3%A3o%20(Aggregate%20Functions)/Usando%20a%20fun%C3%A7%C3%A3o%20SUM.sql)

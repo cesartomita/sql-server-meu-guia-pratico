@@ -71,9 +71,13 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 
 - [Agrupando múltiplas linhas em somente uma (Versão 2005+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202005+).sql)
 - [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
+- [Criando uma função de requisição em uma API REST](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Criando%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
 - [Fazendo uma sub-consulta no SELECT (Subqueries)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Fazendo%20uma%20sub-consulta%20no%20SELECT%20(Subqueries).sql)
 - [Fazendo uma sub-consulta no WHERE (Subqueries)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Fazendo%20uma%20sub-consulta%20no%20WHERE%20(Subqueries).sql)
 - [Formatando data com CONVERT](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Formatando%20data%20com%20CONVERT.sql)
+- [Realizando uma requisição em uma API REST ](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Realizando%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
+- [Realizando uma requisição em uma API SOAP - 01](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Realizando%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
+- [Realizando uma requisição em uma API SOAP - 02](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Realizando%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
 - [Removendo nome com acentos (Versão 2017+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Removendo%20nome%20com%20acentos%20(Vers%C3%A3o%202017+).sql)
 - [Usando STRING_AGG para agrupar linhas](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Usando%20STRING_AGG%20para%20agrupar%20linhas.sql)
 - [Usando XML para agrupar linhas](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Usando%20XML%20para%20agrupar%20linhas.sql)
@@ -142,12 +146,6 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Usando operador INTERSECT](Operadores%20de%20conjunto%20(Set%20Operators)/Usando%20operador%20INTERSECT.sql)
 - [Usando operador UNION ALL](Operadores%20de%20conjunto%20(Set%20Operators)/Usando%20operador%20UNION%20ALL.sql)
 - [Usando operador UNION](Operadores%20de%20conjunto%20(Set%20Operators)/Usando%20operador%20UNION.sql)
-## Requisições em API
-
-- [Exemplo de uma função de requisição em uma API REST](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
-- [Exemplo de uma requisição em uma API REST ](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST%20.sql)
-- [Exemplo de uma requisição em uma API SOAP - 01](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2001.sql)
-- [Exemplo de uma requisição em uma API SOAP - 02](Requisi%C3%A7%C3%B5es%20em%20API/Exemplo%20de%20uma%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20SOAP%20-%2002.sql)
 ## Transações (Transactions)
 
 - [BEGIN TRANSACTION com COMMIT](Transa%C3%A7%C3%B5es%20(Transactions)/BEGIN%20TRANSACTION%20com%20COMMIT.sql)

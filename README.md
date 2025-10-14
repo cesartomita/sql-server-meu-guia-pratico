@@ -54,6 +54,8 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Listando as FOREIGN KEY de um DATABASE](DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
 - [Listando valores do campo MS_Description das propriedades estendidas](DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
 - [Mostrar transações abertas](DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
+- [Procura por colunas nos bancos de dados](DBA/Procura%20por%20colunas%20nos%20bancos%20de%20dados.sql)
+- [Procura por tabelas nos bancos de dados](DBA/Procura%20por%20tabelas%20nos%20bancos%20de%20dados.sql)
 - [Saber quando o SQL Server foi iniciado (pelo tempdb)](DBA/Saber%20quando%20o%20SQL%20Server%20foi%20iniciado%20(pelo%20tempdb).sql)
 - [Saber quando o SQL Server foi iniciado](DBA/Saber%20quando%20o%20SQL%20Server%20foi%20iniciado.sql)
 - [Tabelas com maior uso de espaço em disco](DBA/Tabelas%20com%20maior%20uso%20de%20espa%C3%A7o%20em%20disco.sql)

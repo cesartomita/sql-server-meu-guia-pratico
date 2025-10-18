@@ -140,6 +140,10 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Usando função RAND - Gera um número aleatório entre 0 e 1](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20RAND%20-%20Gera%20um%20n%C3%BAmero%20aleat%C3%B3rio%20entre%200%20e%201.sql)
 - [Usando função ROUND - Arredonda um número para um número específico de casas decimais](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20ROUND%20-%20Arredonda%20um%20n%C3%BAmero%20para%20um%20n%C3%BAmero%20espec%C3%ADfico%20de%20casas%20decimais.sql)
 - [Usando função SQRT - Retorna a raiz quadrada de um valor](Fun%C3%A7%C3%B5es%20matem%C3%A1ticas%20(Mathematical%20functions)/Usando%20fun%C3%A7%C3%A3o%20SQRT%20-%20Retorna%20a%20raiz%20quadrada%20de%20um%20valor.sql)
+## Hints
+
+- [Table Hint - WITH NOLOCK](Hints/Table%20Hint%20-%20WITH%20NOLOCK.sql)
+- [Table Hint - WITH READPAST](Hints/Table%20Hint%20-%20WITH%20READPAST.sql)
 ## Operadores de conjunto (Set Operators)
 
 - [Usando operador EXCEPT](Operadores%20de%20conjunto%20(Set%20Operators)/Usando%20operador%20EXCEPT.sql)

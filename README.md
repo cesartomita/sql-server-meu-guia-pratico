@@ -42,6 +42,11 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Como fazer uma busca usando WHERE](Comandos%20iniciais/Como%20fazer%20uma%20busca%20usando%20WHERE.sql)
 - [Como inserir um novo registro usando INSERT INTO](Comandos%20iniciais/Como%20inserir%20um%20novo%20registro%20usando%20INSERT%20INTO.sql)
 - [Como limitar resultados com TOP](Comandos%20iniciais/Como%20limitar%20resultados%20com%20TOP.sql)
+## Comparações avançadas (NULL-safe comparisons)
+
+- [Comparando usando COLLATE](Compara%C3%A7%C3%B5es%20avan%C3%A7adas%20(NULL-safe%20comparisons)/Comparando%20usando%20COLLATE.sql)
+- [Filtrando por condição NULL](Compara%C3%A7%C3%B5es%20avan%C3%A7adas%20(NULL-safe%20comparisons)/Filtrando%20por%20condi%C3%A7%C3%A3o%20NULL.sql)
+- [IS DISTINCT FROM e IS NOT DISTINCT FROM](Compara%C3%A7%C3%B5es%20avan%C3%A7adas%20(NULL-safe%20comparisons)/IS%20DISTINCT%20FROM%20e%20IS%20NOT%20DISTINCT%20FROM.sql)
 ## DBA
 
 - [Como fazer um DETACH e ATTACH](DBA/Como%20fazer%20um%20DETACH%20e%20ATTACH.sql)

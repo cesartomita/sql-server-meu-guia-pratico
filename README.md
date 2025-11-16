@@ -44,6 +44,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Como limitar resultados com TOP](Comandos%20iniciais/Como%20limitar%20resultados%20com%20TOP.sql)
 ## Comparações avançadas (NULL-safe comparisons)
 
+- [Comparando datas com tolerância](Compara%C3%A7%C3%B5es%20avan%C3%A7adas%20(NULL-safe%20comparisons)/Comparando%20datas%20com%20toler%C3%A2ncia.sql)
 - [Comparando usando COLLATE](Compara%C3%A7%C3%B5es%20avan%C3%A7adas%20(NULL-safe%20comparisons)/Comparando%20usando%20COLLATE.sql)
 - [Filtrando por condição NULL](Compara%C3%A7%C3%B5es%20avan%C3%A7adas%20(NULL-safe%20comparisons)/Filtrando%20por%20condi%C3%A7%C3%A3o%20NULL.sql)
 - [IS DISTINCT FROM e IS NOT DISTINCT FROM](Compara%C3%A7%C3%B5es%20avan%C3%A7adas%20(NULL-safe%20comparisons)/IS%20DISTINCT%20FROM%20e%20IS%20NOT%20DISTINCT%20FROM.sql)
@@ -58,6 +59,8 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Listando as FOREIGN KEY de um DATABASE com SCHEMA](DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE%20com%20SCHEMA.sql)
 - [Listando as FOREIGN KEY de um DATABASE](DBA/Listando%20as%20FOREIGN%20KEY%20de%20um%20DATABASE.sql)
 - [Listando valores do campo MS_Description das propriedades estendidas](DBA/Listando%20valores%20do%20campo%20MS_Description%20das%20propriedades%20estendidas.sql)
+- [Mostrando campos com CHECK constraints](DBA/Mostrando%20campos%20com%20CHECK%20constraints.sql)
+- [Mostrando os índices UNIQUE e respectivas colunas](DBA/Mostrando%20os%20%C3%ADndices%20UNIQUE%20e%20respectivas%20colunas.sql)
 - [Mostrar transações abertas](DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
 - [Procura por colunas nos bancos de dados](DBA/Procura%20por%20colunas%20nos%20bancos%20de%20dados.sql)
 - [Procura por tabelas nos bancos de dados](DBA/Procura%20por%20tabelas%20nos%20bancos%20de%20dados.sql)

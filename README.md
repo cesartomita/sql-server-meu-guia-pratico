@@ -80,6 +80,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Agrupando múltiplas linhas em somente uma (Versão 2005+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202005+).sql)
 - [Agrupando múltiplas linhas em somente uma (Versão 2017+)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Agrupando%20m%C3%BAltiplas%20linhas%20em%20somente%20uma%20(Vers%C3%A3o%202017+).sql)
 - [Criando uma função de requisição em uma API REST](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Criando%20uma%20fun%C3%A7%C3%A3o%20de%20requisi%C3%A7%C3%A3o%20em%20uma%20API%20REST.sql)
+- [CTE recursiva para geração de calendário](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/CTE%20recursiva%20para%20gera%C3%A7%C3%A3o%20de%20calend%C3%A1rio.sql)
 - [Fazendo uma sub-consulta no SELECT (Subqueries)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Fazendo%20uma%20sub-consulta%20no%20SELECT%20(Subqueries).sql)
 - [Fazendo uma sub-consulta no WHERE (Subqueries)](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Fazendo%20uma%20sub-consulta%20no%20WHERE%20(Subqueries).sql)
 - [Formatando data com CONVERT](Exemplos%20pr%C3%A1ticos%20(Practical%20examples)/Formatando%20data%20com%20CONVERT.sql)
@@ -185,6 +186,18 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Extraindo hora, minuto, segundo e milissegundo](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Extraindo%20hora,%20minuto,%20segundo%20e%20milissegundo.sql)
 - [Obtendo o dia da semana](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Obtendo%20o%20dia%20da%20semana.sql)
 - [Obtendo o trimestre](Usando%20DATEPART,%20DATEDIFF%20e%20DATEADD/Obtendo%20o%20trimestre.sql)
+## Usando GRANT, REVOKE e DENY
+
+- [As diferenças de GRANT, REVOKE e DENY](Usando%20GRANT,%20REVOKE%20e%20DENY/As%20diferen%C3%A7as%20de%20GRANT,%20REVOKE%20e%20DENY.sql)
+- [DENY em nível de BANCO DE DADOS](Usando%20GRANT,%20REVOKE%20e%20DENY/DENY%20em%20n%C3%ADvel%20de%20BANCO%20DE%20DADOS.sql)
+- [DENY em nível de OBJETO](Usando%20GRANT,%20REVOKE%20e%20DENY/DENY%20em%20n%C3%ADvel%20de%20OBJETO.sql)
+- [DENY em nível de SCHEMA](Usando%20GRANT,%20REVOKE%20e%20DENY/DENY%20em%20n%C3%ADvel%20de%20SCHEMA.sql)
+- [GRANT em nível de BANCO DE DADOS](Usando%20GRANT,%20REVOKE%20e%20DENY/GRANT%20em%20n%C3%ADvel%20de%20BANCO%20DE%20DADOS.sql)
+- [GRANT em nível de OBJETO](Usando%20GRANT,%20REVOKE%20e%20DENY/GRANT%20em%20n%C3%ADvel%20de%20OBJETO.sql)
+- [GRANT em nível de SCHEMA](Usando%20GRANT,%20REVOKE%20e%20DENY/GRANT%20em%20n%C3%ADvel%20de%20SCHEMA.sql)
+- [REVOKE em nível de BANCO DE DADOS](Usando%20GRANT,%20REVOKE%20e%20DENY/REVOKE%20em%20n%C3%ADvel%20de%20BANCO%20DE%20DADOS.sql)
+- [REVOKE em nível de OBJETO](Usando%20GRANT,%20REVOKE%20e%20DENY/REVOKE%20em%20n%C3%ADvel%20de%20OBJETO.sql)
+- [REVOKE em nível de SCHEMA](Usando%20GRANT,%20REVOKE%20e%20DENY/REVOKE%20em%20n%C3%ADvel%20de%20SCHEMA.sql)
 ## Usando junções (JOINS)
 
 - [Como usar uma junção do tipo CROSS JOIN](Usando%20jun%C3%A7%C3%B5es%20(JOINS)/Como%20usar%20uma%20jun%C3%A7%C3%A3o%20do%20tipo%20CROSS%20JOIN.sql)

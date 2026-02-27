@@ -62,6 +62,7 @@ Caso esteja procurando por algo específico, deixo abaixo um índice com os scri
 - [Mostrando campos com CHECK constraints](DBA/Mostrando%20campos%20com%20CHECK%20constraints.sql)
 - [Mostrando os índices UNIQUE e respectivas colunas](DBA/Mostrando%20os%20%C3%ADndices%20UNIQUE%20e%20respectivas%20colunas.sql)
 - [Mostrar transações abertas](DBA/Mostrar%20transa%C3%A7%C3%B5es%20abertas.sql)
+- [Permissões de DATABASE (banco de dados) por usuário](DBA/Permiss%C3%B5es%20de%20DATABASE%20(banco%20de%20dados)%20por%20usu%C3%A1rio.sql)
 - [Procura por colunas nos bancos de dados](DBA/Procura%20por%20colunas%20nos%20bancos%20de%20dados.sql)
 - [Procura por tabelas nos bancos de dados](DBA/Procura%20por%20tabelas%20nos%20bancos%20de%20dados.sql)
 - [Saber quando o SQL Server foi iniciado (pelo tempdb)](DBA/Saber%20quando%20o%20SQL%20Server%20foi%20iniciado%20(pelo%20tempdb).sql)
